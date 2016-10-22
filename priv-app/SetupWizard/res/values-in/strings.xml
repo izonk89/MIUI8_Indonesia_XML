@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Aplikasi mewajibkan pemasangan layanan Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Aplikasi memerlukan pembaruan ke aplikasi Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikasi ini tidak akan bekerja sampai Anda mengaktifkan layanan Google Play.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_android_wear_update_title">Perbarui Android Wear</string>
+    <string name="common_google_play_services_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play.</string>
+    <string name="common_android_wear_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+    <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+    <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="common_google_play_services_unknown_issue">Masalah tidak diketahui pada layanan Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+    <string name="common_signin_button_text">Masuk</string>
+    <string name="common_signin_button_text_long">Masuk dengan Google</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="setup_wizard_next_button_label">Berikutnya</string>
+    <string name="setup_wizard_back_button_label">Kembali</string>
+    <string name="setup_wizard_title">Wizard Penyiapan</string>
+    <string name="setup_wizard_services_activity_title">Layanan Google</string>
+    <string name="setup_wizard_services_description">Layanan ini membuat Google bekerja untuk Anda dan Anda dapat mengaktifkan atau menonaktifkan kapan saja. Data akan digunakan menurut <annotation id="google_privacy">Kebijakan Privasi</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Pencadangan &amp; pemulihan</string>
+    <string name="setup_wizard_services_location_heading">Lokasi</string>
+    <string name="setup_wizard_services_communication_heading">Komunikasi</string>
+    <string name="setup_wizard_services_backup"><b>Cadangkan aplikasi, data aplikasi, setelan, kamus pribadi, dan sandi Wi‑Fi ponsel</b> menggunakan Akun Google agar Anda nanti dapat memulihkannya dengan mudah. <annotation id="backup_details">Pelajari lebih lanjut</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Cadangkan aplikasi, data aplikasi, setelan, kamus pribadi, dan sandi Wi‑Fi</b> menggunakan Akun Google agar Anda nanti dapat memulihkannya dengan mudah.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data meliputi aplikasi, setelan aplikasi, setelan sistem, dan sandi Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Jika Anda mengaktifkan pencadangan otomatis, data perangkat akan disimpan ke Akun Google secara berkala. Pencadangan dapat meliputi informasi di folder data aplikasi Anda, seperti preferensi, setelan, pesan, foto, dan file lainnya.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Gunakan layanan lokasi Google</b> untuk membantu aplikasi menentukan lokasi. Ini artinya mengirimkan data lokasi anonim ke Google bahkan saat tidak ada aplikasi yang berjalan. <annotation id="location_details">Pelajari lebih lanjut</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Layanan lokasi Google menggunakan sumber seperti jaringan Wi-Fi dan seluler untuk membantu memperkirakan lokasi perangkat Anda dengan lebih cepat dan akurat. Saat Anda mengaktifkan layanan lokasi Google, perangkat memasuki mode yang menggunakan jaringan Wi-Fi dan seluler untuk memberikan informasi lokasi. Anda dapat menonaktifkannya di setelan lokasi dengan memilih mode yang hanya menggunakan GPS, terkadang disebut mode Khusus perangkat.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Bantu sempurnakan layanan lokasi</b> dengan mengizinkan aplikasi dan layanan memindai jaringan Wi-Fi bahkan saat Wi-Fi nonaktif.</string>
+    <string name="setup_wizard_services_location_footnote">Layanan lokasi Google menggunakan Wi-Fi dan sinyal lainnya untuk menentukan lokasi dengan lebih akurat dan cepat, sering kali dengan penggunaan daya yang lebih rendah daripada GPS. Beberapa data mungkin disimpan di perangkat Anda. Data dapat dikumpulkan bahkan saat aplikasi tidak berjalan.</string>
+    <string name="setup_wizard_services_play"><b>Selalu kabarkan kepada saya</b> berita dan penawaran terbaru dari Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Bantu sempurnakan pengalaman Android Anda</b> dengan mengirimkan data penggunaan dan diagnostik ke Google secara otomatis. Informasi ini tidak akan digunakan untuk mengidentifikasi Anda dan membantu tim untuk meningkatkan hal seperti masa pakai baterai, kinerja aplikasi, dan fitur Google yang baru. <annotation id="usage_reporting_details">Pelajari lebih lanjut</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Ini adalah informasi umum tentang perangkat dan cara Anda menggunakannya, seperti tingkat baterai, seberapa sering Anda menggunakan aplikasi, kualitas dan durasi sambungan jaringan Anda (seperti seluler, Wi-Fi, dan Bluetooth), serta laporan kerusakan saat hal-hal tersebut tidak berkerja dengan semestinya. Informasi itu akan digunakan untuk meningkatkan layanan dan produk Google untuk semua orang, dan tidak akan dikaitkan dengan Akun Google Anda. Beberapa informasi yang terkumpul akan membantu mitra, misalnya pengembang Android, membuat aplikasi dan produknya menjadi lebih baik juga.
+
+Anda dapat mengaktifkan atau menonaktifkannya kapan saja di aplikasi Setelan Google. Hal ini tidak akan memengaruhi kemampuan perangkat untuk mengirim informasi yang dibutuhkan guna menerima layanan penting seperti keamanan dan pembaruan sistem."</string>
+    <string name="setup_wizard_services_agreement">Ponsel ini juga dapat menerima dan memasang pembaruan dan aplikasi dari Google, operator, dan produsen ponsel Anda. Beberapa aplikasi juga dapat diunduh dan dipasang jika Anda melanjutkannya, dan Anda dapat membuangnya kapan saja.</string>
+    <string name="default_device_name">Android</string>
+    <string name="welcome_message">Selamat Datang</string>
+    <string name="welcome_secondary_user_added_text">%s telah menambahkan Anda ke ponsel ini.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Anda telah ditambahkan ke ponsel ini.</string>
+    <string name="welcome_secondary_user_info_text">"Setelah selesai menyiapkan, Anda dapat bekerja dengan aplikasi atau memasang yang baru seperti biasanya.
+
+"<b>Penting:</b>"
+
+"<li><ul>Pemilik ponsel dapat mencopot pemasangan aplikasi Anda atau menghapus ruang Anda sepenuhnya.</ul></li>"
+
+"<li><ul>Pengguna lain dapat menerima izin aplikasi yang diperbarui atas nama Anda.</ul></li>"
+
+"<li><ul>Sama halnya dengan komputer, sebaiknya Anda berbagi ponsel ini dengan orang-orang yang Anda percayai.</ul></li></string>
+    <string name="welcome_limited_user_info_text">" 
+"<b>Penting:</b>"
+
+ "<li><ul>Pemilik ponsel dapat sepenuhnya memasang dan mencopot pemasangan aplikasi, menyetel batasan, atau menghapus ruang Anda.</ul></li>"
+
+ "<li><ul>Setiap pengguna lain dapat menerima izin pembaruan aplikasi atas nama Anda.</ul></li>"
+
+ "<li><ul>Seperti halnya komputer mana pun, Anda sebaiknya hanya berbagi ponsel ini dengan orang yang Anda percaya. </ul></li></string>
+    <string name="welcome_text_edu">Siapkan perangkat Anda untuk digunakan dengan Google Play for Education</string>
+    <string name="welcome_secondary_user_text_edu">Mari selesaikan penyiapan akun Anda di tablet ini.</string>
+    <string name="welcome_secondary_user_additional_info_header_edu">Penting</string>
+    <string name="welcome_secondary_user_additional_info_edu">Anda membagikan tablet ini dengan siswa lain. Setelah menyiapkan akun, tambahkan PIN untuk melindungi pekerjaan Anda.</string>
+    <string name="finish_button_label">Tuntaskan</string>
+    <string name="skip_button_label">Lewati</string>
+    <string name="skip_anyway_button_label">Lewati saja</string>
+    <string name="dont_skip_button_label">Jangan lewati</string>
+    <string name="down_button_label">Selengkapnya</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="restart_button_label">Mulai Ulang</string>
+    <string name="try_again_button_label">Coba lagi</string>
+    <string name="close_button_label">Tutup</string>
+    <string name="got_it_button_label">Mengerti</string>
+    <string name="google_legal_title">Google hukum</string>
+    <string name="url_load_unsuccessful_message">Ponsel Anda tidak tersambung ke layanan data seluler. Untuk melihat informasi ini sekarang, buka %s di browser web.</string>
+    <string name="start">Mulai</string>
+    <string name="wait_msg">Tunggu sebentar...</string>
+    <string name="skip_toast">Penyiapan Wizard dilewati</string>
+    <string name="terminate_toast">"Penyiapan Wizard dihentikan
+Perangkat tidak ditetapkan"</string>
+    <string name="activation_title">Mengaktifkan layanan seluler…</string>
+    <string name="activation_title_searching">Menelusuri layanan...</string>
+    <string name="activation_title_activating">Mengaktifkan layanan seluler…</string>
+    <string name="activation_default_network_name">jaringan seluler</string>
+    <string name="activation_network_bars_template">Kekuatan sinyal %d baris</string>
+    <string name="activation_text">Sentuh <b>Aktifkan</b>" untuk mengaktifkan layanan seluler Anda sekarang. (Diperlukan beberapa menit)
+
+Atau sentuh "<b>Lompati</b> untuk menyiapkan ponsel Anda menggunakan koneksi Wi-Fi.</string>
+    <string name="activation_text_standalone">Sentuh <b>Aktifkan</b> untuk mengaktifkan layanan seluler Anda sekarang. (Diperlukan beberapa menit)</string>
+    <string name="activation_skip_confirmation">"Sebelum layanan data seluler diaktifkan, sebagian besar fitur ponsel tidak akan berfungsi.
+
+Jika Anda memilih melewatinya sekarang, layanan ini dapat diaktifkan nanti dalam setelan Sistem."</string>
+    <string name="activation_continue_skip_label">Lanjutkan</string>
+    <string name="activation_button_label">Aktifkan</string>
+    <string name="activation_progress_before_connect">Sentuh <b>Lewati</b> untuk menyelesaikan penyiapan menggunakan sambungan Wi-Fi.</string>
+    <string name="activation_progress">Aktivasi memerlukan waktu beberapa menit. Sentuh <b>Lompati</b> untuk menyelesaikan penyiapan menggunakan koneksi Wi-Fi.</string>
+    <string name="activation_progress_gen">Tindakan ini dapat memakan waktu hingga 5 menit</string>
+    <string name="activation_progress_mobile_data">"Ponsel mengaktifkan layanan data seluler Anda.
+
+Proses ini dapat memakan waktu sampai 5 menit."</string>
+    <string name="activation_progress_before_connect_standalone">Aktivasi membutuhkan waktu beberapa menit.</string>
+    <string name="activation_progress_standalone">Aktivasi membutuhkan waktu beberapa menit.</string>
+    <string name="activation_success_title">Aktivasi selesai</string>
+    <string name="activation_success_text">Sentuh <b>Selanjutnya</b> untuk meneruskan penyiapan.</string>
+    <string name="activation_success_text_gen">Perangkat Anda harus dimulai ulang untuk menyelesaikan aktivasi.</string>
+    <string name="activation_success_text_standalone">Sentuh <b>Berikutnya</b>" untuk melanjutkan.
+
+Aktivasi berhasil, namun butuh beberapa menit sebelum jaringan data seluler tersedia."</string>
+    <string name="activation_failure_title">Tidak dapat mengaktifkan</string>
+    <string name="activation_failure_text">"Coba lagi dalam satu menit, atau mulai ulang ponsel Anda jika hal ini terus berlanjut.
+
+Jika Anda lebih memilih untuk melompatinya sekarang, pastikan untuk mengaktifkannya nanti di setelan Sistem. Hingga diaktifkan, ponsel Anda tidak akan memiliki sambungan data seluler."</string>
+    <string name="activation_failure_text_gen">Layanan data seluler Anda tidak dapat diaktifkan. Ini mungkin masalah sementara dan dapat diselesaikan dengan memulai ulang ponsel.</string>
+    <string name="activation_failure_text_standalone">Tidak dapat mengaktifkan layanan data seluler. Untuk mencoba aktivasi lagi, sentuh <b>Coba lagi</b>".
+
+Anda dapat mengaktifkan layanan data seluler nanti di "<b>Setelan sistem > Nirkabel &amp; jaringan > Jaringan seluler</b></string>
+    <string name="activation_cancel_title">Batalkan yang diminta</string>
+    <string name="activation_cancel_text">Membatalkan aktivasi...mungkin butuh waktu 5-10 detik.</string>
+    <string name="activation_canceled_title">Aktivasi dibatalkan</string>
+    <string name="activation_canceled_text">"Ingin membatalkan aktivasi? Anda harus mengaktifkan layanan jaringan seluler sebelum dapat menggunakannya untuk tersambung ke internet.
+
+Sentuh "<b>Berikutnya</b>" untuk menyelesaikan penyiapan menggunakan sambungan Wi-Fi.
+
+Anda dapat mengaktifkan layanan jaringan seluler nanti di "<b>Setelan sistem > Nirkabel &amp; jaringan > Jaringan seluler</b></string>
+    <string name="activation_canceled_text_standalone">"Aktivasi dibatalkan.
+
+Anda dapat mengaktifkan layanan data seluler nanti di "<b>Setelan sistem > Nirkabel &amp; jaringan > Jaringan seluler</b>.</string>
+    <string name="activation_spc_failure_text">Terjadi kesalahan yang mengharuskan untuk mematikan dan memulai ulang ponsel agar Anda dapat mencoba melakukan aktivasi lagi. Ponsel akan mati secara otomatis dalam 60 detik, atau Anda dapat menyentuh <b>Matikan sekarang</b>".
+
+Setelah ponsel mati, tekan tombol Daya untuk memulai ulang. Aktivasi akan dimulai secara otomatis."</string>
+    <string name="shutdown_button_label">Matikan sekarang</string>
+    <string name="reboot_button_label">Mulai Ulang</string>
+    <string name="activation_skip_text">Jika Anda melewati aktivasi, pastikan untuk mengaktifkannya nanti di Setelan. Ponsel tidak akan memiliki sambungan data seluler hingga Anda mengaktifkannya.</string>
+    <string name="notification_update_title">Akun Anda perlu diperbarui</string>
+    <string name="notification_update_message">Sentuh di sini untuk menjalankan ulang Wizard Penyiapan.</string>
+    <string name="account_exists_title">Akun ditambahkan</string>
+    <string name="account_exists_text">Akun pertama Anda siap digunakan. Anda dapat menambah dan membuang akun nanti di Setelan.</string>
+    <string name="date_time_setup_title">Tanggal &amp; waktu</string>
+    <string name="date_time_message">Sesuaikan jika perlu.</string>
+    <string name="date_time_current_date">Tanggal</string>
+    <string name="date_time_current_time">Waktu</string>
+    <string name="location_sharing_title">Google &amp; lokasi</string>
+    <string name="tos_title">Layanan Google</string>
+    <string name="tos_agreement_text">Ponsel ini juga dapat meneriima dan memasang pembaruan dari Google. Dengan melanjutkannya, Anda menyetujui <annotation id="tos">Persyaratan Layanan Google</annotation> dan <annotation id="google_privacy">Kebijakan Privasi</annotation>.</string>
+    <string name="tos_agreement_text_germany">Selanjutnya Anda setuju bahwa perangkat dapat menerima dan memasang pembaruan dari Google. Jika Anda menggunakan perangkat ini, kita tunduk pada <annotation id="google_privacy">Kebijakan Privasi</annotation> dan <annotation id="tos">persyaratan tambahan</annotation> yang berlaku.</string>
+    <string name="setup_complete_title">Penyiapan selesai</string>
+    <string name="setup_complete_message">Ponsel Anda telah disiapkan dan sudah dapat digunakan.</string>
+    <string name="backup_assistant_prompt">Mulai Verizon Backup Assistant untuk memulihkan kontak dari ponsel Verizon lain.</string>
+    <string name="sim_missing_title">Masukkan kartu SIM</string>
+    <string name="sim_setup_title">Siapkan kartu SIM</string>
+    <string name="sim_setup_select_data">Pilih SIM untuk data seluler</string>
+    <string name="sim_setup_select_voice">Pilih SIM untuk panggilan telepon</string>
+    <string name="sim_setup_select_text">Pilih SIM untuk SMS</string>
+    <string name="sim_setup_ask_every_time">Selalu tanya</string>
+    <string name="walled_garden_title">Memeriksa sambungan...</string>
+    <string name="walled_garden_check_indefinite_text">Perlu waktu cukup lama</string>
+    <string name="walled_garden_skipped_message">"Jika Anda mengabaikan:
+
+Ponsel tidak akan memiliki sambungan internet.
+
+Anda tidak akan mendapatkan pembaruan perangkat lunak jika tidak tersambung ke internet.
+
+}Anda tidak dapat mengaktifkan fitur perlindungan perangkat saat ini."</string>
+    <string name="walled_garden_connection_failed">Terlalu lama? Coba mundur, lalu sambungkan ke jaringan lain.</string>
+    <string name="walled_garden_connection_unsuccessful">Tidak dapat tersambung ke internet</string>
+    <string name="ota_update_title">Perbarui ponsel</string>
+    <string name="ota_info">Ponsel Anda perlu mengunduh pembaruan dan memulai kembali.</string>
+    <string name="ota_size">Ukuran: %s</string>
+    <string name="ota_agreement_text">Dengan melanjutkan dan menerima pembaruan perangkat lunak ini, Anda menyetujui <annotation id="tos">Persyaratan Layanan Google</annotation> dan <annotation id="google_privacy">Kebijakan Privasi</annotation>.</string>
+    <string name="early_update_title">Pembaruan perangkat lunak</string>
+    <string name="early_update_text">Memeriksa pembaruan</string>
+    <string name="early_update_downloading_text">Mengunduh %s</string>
+    <string name="early_update_installing_text">Memasang %s</string>
+    <string name="warm_sim_check_msg">Menunggu jaringan...</string>
+    <string name="sign_in_agreement">Dengan masuk, Anda menyetujui <annotation id="tos">Persyaratan Layanan</annotation>, <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, dan <annotation id="play_tos">Persyaratan Layanan Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Kebijakan Privasi Tambahan</string>
+    <string name="google_terms_of_service_title">Persyaratan Layanan Google</string>
+    <string name="google_privacy_policy_title">Kebijakan Privasi Google</string>
+    <string name="google_plus_privacy_policy_title">Kebijakan Privasi Google Plus</string>
+    <string name="google_play_tos_title">Persyaratan Layanan Google Play</string>
+    <string name="chrome_tos_title">Persyaratan Layanan Chrome</string>
+    <string name="chrome_privacy_title">Pemberitahuan Privasi Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Perangkat Android Anda tidak tersambung ke jaringan Wi-Fi. Untuk melihat informasi ini sekarang, kunjungi %s dengan browser web.</string>
+    <string name="continue_for_a11y">Lanjutkan menyentuh layar sampai Anda mendengar bunyi bip untuk mengaktifkan mode Aksesibilitas.</string>
+    <string name="canceled_a11y">Mode Aksesibilitas dibatalkan.</string>
+    <string name="enabled_a11y">Mode Aksesibilitas diaktifkan.</string>
+    <string name="emergency_dial">Panggilan darurat</string>
+    <string name="welcome_language_picker_content_description">Bahasa: %s</string>
+    <string name="lock_screen_intro_title">Lindungi ponsel</string>
+    <string name="lock_screen_intro_text">"Cegah orang lain menggunakan ponsel ini tanpa izin Anda dengan mengaktifkan fitur perlindungan perangkat.
+"<annotation id="learn_more">Pelajari lebih lanjut</annotation></string>
+    <string name="lock_screen_intro_text_secondary">Anda akan dipandu untuk menyiapkan layar kunci jika memilih ya.</string>
+    <string name="lock_screen_intro_check_box"><b>Lindungi perangkat ini</b> dan minta PIN, pola, atau sandi untuk membuka kunci layar</string>
+    <string name="lock_screen_intro_button">Setel kunci layar sekarang</string>
+    <string name="lock_screen_intro_success">Layar kunci berhasil disiapkan.</string>
+    <string name="lock_screen_intro_dialog_text">"Perlindungan perangkat otomatis diaktifkan jika Anda menambahkan Akun Google dan menyetel kunci layar. Bersama Pengelola Perangkat Android, Anda dapat mencari lokasi dan menghapus ponsel, serta melindunginya dari penggunaan ulang jika hilang atau dicuri.
+
+Bahkan jika ponsel dihapus, sandi Akun Google akan diminta jika orang ingin menggunakan ponsel ini."</string>
+    <string name="lock_screen_intro_skip_dialog_text">Fitur perlindungan perangkat tidak akan diaktifkan. Anda tidak akan dapat mencegah orang lain menggunakan ponsel ini jika hilang, dicuri, atau dihapus.</string>
+    <string name="services_activity_title">Layanan Google</string>
+    <string name="services_backup_heading">Cadangan</string>
+    <string name="services_location_heading">Lokasi</string>
+    <string name="services_security_heading">Keamanan</string>
+    <string name="services_personalization_heading">Personalisasi</string>
+    <string name="services_communication_heading">Komunikasi</string>
+    <string name="security_verify_apps_summary">Memungkinkan Google memeriksa semua aplikasi yang terpasang untuk mendeteksi potensi perilaku berbahaya yang mungkin memengaruhi keamanan perangkat atau data Anda.</string>
+    <string name="restore_title">Memulihkan…</string>
+    <string name="restore_wallpaper_title">Memulihkan wallpaper…</string>
+    <string name="restore_device_settings_title">Memulihkan setelan perangkat…</string>
+    <string name="restore_launcher_title">Memulihkan peluncur…</string>
+    <string name="restore_failed_message">Tidak dapat memulihkan dari cadangan</string>
+    <string name="name_title">Nama</string>
+    <string name="name_text">Menambahkan nama Anda memungkinkan ponsel mempersonalisasi beberapa aplikasi.</string>
+    <string name="first_name">Pertama</string>
+    <string name="last_name">Terakhir</string>
+    <string name="cant_be_blank">Bidang harus diisi.</string>
+    <string name="lock_pin_confirm_your_pin_header">Konfirmasi PIN Anda</string>
+    <string name="lock_pin_choose_your_pin_header">Pilih PIN Anda</string>
+    <string name="lock_pin_ok_label">Oke</string>
+    <string name="lock_pin_cancel_label">Batal</string>
+    <string name="lock_pin_press_continue">Sentuh Lanjutkan setelah selesai</string>
+    <string name="lock_pin_too_short">PIN minimal %d digit</string>
+    <string name="lock_pin_too_long">PIN harus kurang dari %d digit.</string>
+    <string name="lock_pin_illegal_character">Sandi berisi karakter yang tidak sah.</string>
+    <string name="lock_pin_contains_non_digits">PIN hanya boleh terdiri dari digit 0-9.</string>
+    <string name="lock_pin_confirm_pins_dont_match">PIN tidak cocok</string>
+    <string name="lock_pin_continue_label">Lanjutkan</string>
+</resources>

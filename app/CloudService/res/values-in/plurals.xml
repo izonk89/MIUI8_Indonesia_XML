@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontak</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d pesan</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d catatan</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d foto</item>
+    </plurals>
+</resources>

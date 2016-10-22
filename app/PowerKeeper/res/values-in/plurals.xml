@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d langkah lagi untuk berganti ke mode Ekstrim</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d langkah lagi dari mematikan mode Ekstrim</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">%1$d langkah lagi untuk buka kunci seluruh item</item>
+    </plurals>
+</resources>

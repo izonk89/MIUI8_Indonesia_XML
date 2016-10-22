@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+    <string-array name="education">
+        <item>SMP</item>
+        <item>SMK</item>
+        <item>SMU</item>
+        <item>Diploma</item>
+        <item>Sarjana</item>
+        <item>Master</item>
+        <item>Doktor</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Keluarga</item>
+        <item>Nama nenek dari ibu</item>
+        <item>Nama kakek dari ibu</item>
+        <item>Nama kakek dari ayah</item>
+        <item>Nama nenek dari ayah</item>
+        <item>Ulang tahun ayah</item>
+        <item>Ulang tahun ibu</item>
+        <item>Berapa perbedaan umur orang tua Anda (tahun dan bulan)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Almamater</item>
+        <item>Siapa nama ketua kelas Anda waktu SMA?</item>
+        <item>Siapa nama ketua kelas Anda waktu SD?</item>
+        <item>Nomor ID mahasiswa Anda di perguruan tinggi</item>
+        <item>Siapa nama teman asramamu saat kuliah?</item>
+        <item>Siapa nama guru pembimbingmu di universitas?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Info pribadi</item>
+        <item>Nama panggilan Anda di rumah?</item>
+        <item>Nomor paspor 6 digit terakhir</item>
+        <item>Anda lahir di rumah sakit apa?</item>
+        <item>Siapa nama teman baik Anda?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Pertama kali</item>
+        <item>Apa nama binatang peliharaanmu yang pertama?</item>
+        <item>Siapa nama pacar pertama Anda?</item>
+        <item>Apa nama perusahaan tempat Anda pertama bekerja?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Pernikahan</item>
+        <item>Kapan Anda menikah?</item>
+        <item>Nama pasangan</item>
+        <item>Ulang tahun pasangan</item>
+    </string-array>
+</resources>

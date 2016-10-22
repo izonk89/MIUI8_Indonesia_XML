@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Bawaan</item>
+        <item>Mode sembunyi</item>
+        <item>Mode baca</item>
+        <item>Mode media</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Apl berjalan di latar depan</item>
+        <item>Tampilan hidup</item>
+        <item>Tampilan mati</item>
+        <item>Tampilan mati setelah 10 menit</item>
+        <item>Layar penuh</item>
+        <item>Keluar dari layar penuh</item>
+        <item>Apl berjalan di latar belakang</item>
+        <item>Telepon diisi daya</item>
+        <item>Telepon tidak sedang diisi daya</item>
+        <item>Telepon tidak aktif (idle)</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Kecerahan tampilan maksimum</item>
+        <item>Frekuensi CPU maksimum</item>
+        <item>Mode tampilan</item>
+        <item>Penggunaan CPU</item>
+        <item>Koneksi data</item>
+        <item>Lokasi</item>
+        <item>Notifikasi pertama</item>
+        <item>Notifikasi layar kunci</item>
+        <item>Batasi koneksi data latar belakang</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Tak ada</item>
+        <item>Bawaan</item>
+        <item>Gambar</item>
+        <item>Film</item>
+        <item>Penghemat baterai</item>
+        <item>Seimbang</item>
+        <item>Performa</item>
+        <item>Hidup</item>
+        <item>Mati</item>
+        <item>Segera</item>
+        <item>Setelah 10 mnt</item>
+        <item>Setelah 30 mnt</item>
+        <item>Saat tampilan mati</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Mode ini</item>
+        <item>Tak ada yang dipilih</item>
+        <item>Di mode terpilih lainnya</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Kustom</item>
+        <item>Penghemat baterai</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Sekarang</item>
+        <item>Latar belakang</item>
+        <item>Terkini</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Blokir sistem tidur terlalu dalam</item>
+        <item>Blokir mode tidur</item>
+        <item>Mencari Wi-Fi</item>
+        <item>Menggunakan GPS</item>
+        <item>Memakai CPU</item>
+        <item>Sering membangunkan perangkat</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>Pindai Wi-Fi</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+</resources>

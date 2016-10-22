@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Mematikan dalam %d detik...</item>
+        <item quantity="one">Mematikan dalam 1 detik...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Masukkan kartu SIM</item>
+        <item quantity="zero">Masukkan kartu SIM</item>
+        <item quantity="one">Masukkan kartu SIM</item>
+        <item quantity="two">Masukkan kartu SIM</item>
+        <item quantity="few">Masukkan kartu SIM</item>
+        <item quantity="many">Masukkan kartu SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Tidak yakin caranya? Baca petunjuk yang disertakan dengan tablet.</item>
+        <item quantity="zero">Tidak yakin caranya? Baca petunjuk yang disertakan dengan tablet.</item>
+        <item quantity="one">Tidak yakin caranya? Baca petunjuk yang disertakan dengan tablet.</item>
+        <item quantity="two">Tidak yakin caranya? Baca petunjuk yang disertakan dengan tablet.</item>
+        <item quantity="few">Tidak yakin caranya? Baca petunjuk yang disertakan dengan tablet.</item>
+        <item quantity="many">Tidak yakin caranya? Baca petunjuk yang disertakan dengan tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Tidak yakin caranya? Baca petunjuk yang disertakan dengan perangkat.</item>
+        <item quantity="zero">Tidak yakin caranya? Baca petunjuk yang disertakan dengan perangkat.</item>
+        <item quantity="one">Tidak yakin caranya? Baca petunjuk yang disertakan dengan perangkat.</item>
+        <item quantity="two">Tidak yakin caranya? Baca petunjuk yang disertakan dengan perangkat.</item>
+        <item quantity="few">Tidak yakin caranya? Baca petunjuk yang disertakan dengan perangkat.</item>
+        <item quantity="many">Tidak yakin caranya? Baca petunjuk yang disertakan dengan perangkat.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Tidak yakin caranya? Baca petunjuk yang disertakan dengan ponsel.</item>
+        <item quantity="zero">Tidak yakin caranya? Baca petunjuk yang disertakan dengan ponsel.</item>
+        <item quantity="one">Tidak yakin caranya? Baca petunjuk yang disertakan dengan ponsel.</item>
+        <item quantity="two">Tidak yakin caranya? Baca petunjuk yang disertakan dengan ponsel.</item>
+        <item quantity="few">Tidak yakin caranya? Baca petunjuk yang disertakan dengan ponsel.</item>
+        <item quantity="many">Tidak yakin caranya? Baca petunjuk yang disertakan dengan ponsel.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Perlu waktu hingga %d menit</item>
+        <item quantity="one">Perlu waktu hingga %d menit</item>
+        <item quantity="two">Perlu waktu hingga %d menit</item>
+        <item quantity="few">Perlu waktu hingga %d menit</item>
+        <item quantity="many">Perlu waktu hingga %d menit</item>
+    </plurals>
+</resources>

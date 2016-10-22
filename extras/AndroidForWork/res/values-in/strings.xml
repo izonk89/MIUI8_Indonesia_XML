@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_next_button_label">Berikutnya</string>
+    <string name="setup_wizard_back_button_label">Kembali</string>
+    <string name="app_name">Android Work Assistant</string>
+    <string name="android_for_work_title">Menyiapkan perangkat</string>
+    <string name="corp_owned_explanation">Organisasi mengontrol perangkat Anda dan membuatnya tetap aman.</string>
+    <string name="set_up">Siapkan</string>
+    <string name="email_hint">Alamat email</string>
+    <string name="code_hint">Kode aktivasi</string>
+    <string name="dialog_activation_code_title">Kode aktivasi</string>
+    <string name="dialog_activation_code_main_text">Untuk menyiapkan akun Android Work, Anda harus memasang aplikasi admin yang disetujui oleh organisasi. Anda perlu kode aktivasi untuk memasang aplikasi ini. Hubungi departemen TI untuk mendapatkan kode ini.</string>
+    <string name="dialog_close">Tutup</string>
+    <string name="dialog_cancel">Batal</string>
+    <string name="dialog_ok">Oke</string>
+    <string name="dialog_try_again">Coba lagi</string>
+    <string name="error_dialog_mdm_lookup_failed">Tidak dapat memperoleh informasi organisasi Anda. Periksa sambungan internet dan coba lagi.</string>
+    <string name="error_dialog_cert_hash_mismatch">%1$ aplikasi telah dipasang. Buang aplikasi dan coba lagi.</string>
+    <string name="error_dialog_input_error">Alamat email dan kode aktivasi tidak cocok. Periksa kesalahan ketik dan coba lagi.</string>
+    <string name="lookup_progress_text">Mencari aplikasi pengelolaan perangkat Anda...</string>
+</resources>

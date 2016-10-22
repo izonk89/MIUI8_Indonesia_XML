@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Pemberitahuan</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lokal default</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+        <item>Senin</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Kepulauan Marshall</item>
+        <item>Pulau Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Waktu Pasifik</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Waktu Pegunungan</item>
+        <item>Amerika Tengah</item>
+        <item>Waktu Tengah</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Waktu Timur</item>
+        <item>Venezuela</item>
+        <item>Waktu Atlantik (Barbados)</item>
+        <item>Waktu Atlantik (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Atlantik Tengah</item>
+        <item>Azores</item>
+        <item>Kep. Tanjung Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Waktu Afrika Barat</item>
+        <item>Amman, Jordan</item>
+        <item>Athena, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Yerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskwa</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Sibuk</item>
+        <item>Tersedia</item>
+        <item>Sementara</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Default</item>
+        <item>Pribadi</item>
+        <item>Umum</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pertama</item>
+        <item>kedua</item>
+        <item>ketiga</item>
+        <item>keempat</item>
+        <item>terakhir</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Tidak ada tanggapan</item>
+        <item>Ya</item>
+        <item>" Mungkin hadir"</item>
+        <item>Tidak</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Hanya acara ini</item>
+        <item>Acara saat ini dan di masa mendatang</item>
+        <item>Semua acara</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Hanya acara ini</item>
+        <item>Semua acara dalam rangkaian</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Dijalankan terlambat beberapa menit.</item>
+        <item>Tiba dalam waktu sekitar 10 menit.</item>
+        <item>Silakan mulai tanpa saya.</item>
+        <item>Maaf, saya tidak bisa. Kita harus menjadwalkan ulang.</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparan</item>
+        <item>Latar belakang putih</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Tak ada pengingat</item>
+        <item>Saat acara</item>
+        <item>5 menit sebelumnya</item>
+        <item>10 menit sebelumnya</item>
+        <item>15 menit sebelumnya</item>
+        <item>30 menit sebelumnya</item>
+        <item>1 jam sebelumnya</item>
+        <item>1 hari sebelumnya</item>
+        <item>2 hari sebelumnya</item>
+        <item>1 minggu sebelumnya</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Tak ada pengingat</item>
+        <item>Saat acara</item>
+        <item>5 menit sebelumnya</item>
+        <item>10 menit sebelumnya</item>
+        <item>15 menit sebelumnya</item>
+        <item>30 menit sebelumnya</item>
+        <item>1 jam sebelumnya</item>
+        <item>1 hari sebelumnya</item>
+        <item>2 hari sebelumnya</item>
+        <item>1 minggu sebelumnya</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 jam sebelumnya</item>
+        <item>4 jam sebelumnya</item>
+        <item>5 jam sebelumnya</item>
+        <item>6 jam sebelumnya</item>
+        <item>1 hari sebelumnya</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>hari</item>
+        <item>minggu</item>
+        <item>bulan</item>
+        <item>tahun</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>hari</item>
+        <item>minggu</item>
+        <item>bulan</item>
+        <item>tahun</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Sen</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kam</item>
+        <item>Jum</item>
+        <item>Sab</item>
+        <item>Min</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ags</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Des</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>pertama</item>
+        <item>kedua</item>
+        <item>ketiga</item>
+        <item>keempat</item>
+        <item>terakhir</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Sen-Jum</item>
+        <item>Akhir pekan</item>
+        <item>Seminggu</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Jangan</item>
+        <item>Waktu</item>
+        <item>Jumlah</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Selalu</item>
+        <item>Saat dering diheningkan</item>
+        <item>Jangan</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 menit</item>
+        <item>1 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 hari</item>
+        <item>1 minggu</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Tak Satu Pun</item>
+        <item>0 menit</item>
+        <item>1 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 hari</item>
+        <item>1 minggu</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Acara &amp; mendatang ini</item>
+        <item>Semua acara</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Hari</item>
+        <item>Minggu</item>
+        <item>Bulan</item>
+        <item>Agenda</item>
+    </string-array>
+</resources>

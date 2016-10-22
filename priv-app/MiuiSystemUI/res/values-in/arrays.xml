@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Cerah</item>
+        <item>Berawan</item>
+        <item>Mendung</item>
+        <item>Berkabut</item>
+        <item>Badai hujan lebat</item>
+        <item>Hujan deras</item>
+        <item>Hujan badai</item>
+        <item>Badai petir</item>
+        <item>Hujan gerimis</item>
+        <item>Hujan deras</item>
+        <item>Hujan sedang</item>
+        <item>Hujan ringan</item>
+        <item>Hujan dan salju</item>
+        <item>Badai</item>
+        <item>Salju</item>
+        <item>Salju deras</item>
+        <item>Salju sedang</item>
+        <item>Salju ringan</item>
+        <item>Badai pasir kuat</item>
+        <item>Badai pasir</item>
+        <item>Berpasir</item>
+        <item>Berangin</item>
+        <item>Hujan es</item>
+        <item>Debu</item>
+        <item>Kabut</item>
+        <item>Hujan yg dingin</item>
+        <item></item>
+    </string-array>
+</resources>

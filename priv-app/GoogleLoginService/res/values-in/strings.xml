@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Aplikasi mewajibkan pemasangan layanan Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Aplikasi memerlukan pembaruan ke aplikasi Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikasi ini tidak akan bekerja sampai Anda mengaktifkan layanan Google Play.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_android_wear_update_title">Perbarui Android Wear</string>
+    <string name="common_google_play_services_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play.</string>
+    <string name="common_android_wear_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+    <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+    <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="common_google_play_services_unknown_issue">Masalah tidak diketahui pada layanan Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+    <string name="common_signin_button_text">Masuk</string>
+    <string name="common_signin_button_text_long">Masuk dengan Google</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="setup_wizard_next_button_label">Berikutnya</string>
+    <string name="setup_wizard_back_button_label">Kembali</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Lewati</string>
+    <string name="down_button_label">Selengkapnya</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="try_again_button_label">Coba lagi</string>
+    <string name="close_button_label">Tutup</string>
+    <string name="url_load_unsuccessful_message">Perangkat Android Anda tidak tersambung ke layanan data. Untuk melihat informasi ini sekarang, kunjungi %s dengan browser web.</string>
+    <string name="sign_in_agreement">Dengan masuk, Anda menyetujui <annotation id="tos">Persyaratan Layanan</annotation>, <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, dan <annotation id="play_tos">Persyaratan Layanan Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Kebijakan Privasi Tambahan</string>
+    <string name="google_terms_of_service_title">Persyaratan Layanan Google</string>
+    <string name="google_privacy_policy_title">Kebijakan Privasi Google</string>
+    <string name="google_plus_privacy_policy_title">Kebijakan Privasi Google Plus</string>
+    <string name="google_play_tos_title">Persyaratan Layanan Google Play</string>
+    <string name="chrome_tos_title">Persyaratan Layanan Chrome</string>
+    <string name="chrome_privacy_title">Pemberitahuan Privasi Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Perangkat Android Anda tidak tersambung ke jaringan Wi-Fi. Untuk melihat informasi ini sekarang, kunjungi %s dengan browser web.</string>
+    <string name="services_activity_title">Layanan Google</string>
+    <string name="services_backup_heading">Cadangan</string>
+    <string name="services_location_heading">Lokasi</string>
+    <string name="services_security_heading">Keamanan</string>
+    <string name="services_personalization_heading">Personalisasi</string>
+    <string name="services_communication_heading">Komunikasi</string>
+    <string name="security_verify_apps_summary">Memungkinkan Google memeriksa semua aplikasi yang terpasang untuk mendeteksi potensi perilaku berbahaya yang mungkin memengaruhi keamanan perangkat atau data Anda.</string>
+    <string name="name_title">Nama Anda</string>
+    <string name="name_text">Nama Anda digunakan untuk mempersonalisasi ponsel dan layanan Google Anda.</string>
+    <string name="first_name">Pertama</string>
+    <string name="last_name">Belakang</string>
+    <string name="cant_be_blank">Bidang tidak boleh kosong.</string>
+    <string name="sharedUserLabel">Layanan Google</string>
+    <string name="app_label">Pengelola Akun Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Masuk</string>
+    <string name="create_button_label">Dapatkan akun</string>
+    <string name="not_now_button_label">Tidak sekarang</string>
+    <string name="new_button_label">Baru</string>
+    <string name="existing_button_label">Yang sudah ada</string>
+    <string name="done">Oke</string>
+    <string name="edit_text_help">Sentuh kotak teks mana pun untuk mulai mengetik</string>
+    <string name="add_a_google_account">Tambahkan Akun Google</string>
+    <string name="captcha_title">Perlu Memasukkan CAPTCHA</string>
+    <string name="show_error_title">Kesalahan</string>
+    <string name="server_error">Terjadi masalah saat berkomunikasi dengan server Google.</string>
+    <string name="server_error_help">Coba lagi nanti.</string>
+    <string name="network_unreliable">Tidak dapat menjalin sambungan yang dapat diandalkan ke server.</string>
+    <string name="network_unreliable_help">Mungkin ini masalah sementara atau perangkat Android Anda mungkin tidak dapat mengakses layanan data. Jika masalah tetap ada, hubungi Dukungan Pelanggan.</string>
+    <string name="network_unreliable_help_wifi_only">Masalah ini mungkin bersifat sementara. Coba lagi atau sambungkan ke jaringan Wi-Fi lain.</string>
+    <string name="invalid_login_character">Karakter tidak valid. Hanya 0-9, a-z, A-Z, dan titik yang dibolehkan.</string>
+    <string name="invalid_password_character">Karakter sandi tidak valid.</string>
+    <string name="calendar">Google Kalender</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Bidang tidak boleh kosong.</string>
+    <string name="plus_query_title">Meningkatkan versi ke Google+</string>
+    <string name="plus_query_text">Google+ menjadikan berbagi di web semakin menyerupai berbagi di kehidupan nyata.</string>
+    <string name="circles_subtitle">Aliran hal yang Anda sukai</string>
+    <string name="circles_text">Berkomunikasilah dengan teman dekat dan jelajahi minat bersama.</string>
+    <string name="uploads_subtitle">Pencadangan foto otomatis</string>
+    <string name="uploads_text">Cadangkan foto setelah diambil, dengan penyimpanan gratis dan pribadi.</string>
+    <string name="huddle_subtitle">Perpesanan &amp; video call</string>
+    <string name="huddle_text">Nikmati teks, foto, dan video call grup gratis dengan Hangouts.</string>
+    <string name="plus_declined_button_label">Jangan sekarang</string>
+    <string name="plus_accepted_button_label">Memulai</string>
+    <string name="plus_name_check_title">Menghubungi Google+...</string>
+    <string name="plus_name_check_text">Proses ini membutuhkan waktu beberapa menit.</string>
+    <string name="plus_faq_title">Selamat Datang di Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Di Google+, Anda akan memiliki profil publik untuk membantu teman menemukan Anda secara online. Siapa pun yang mengetahui alamat email Anda dapat menemukan dan melihat profil Anda.
+
+Anda dapat menggunakan tombol +1 di seluruh web untuk menyarankan hal-hal kepada dunia. Profil dan +1 Anda akan muncul secara publik dalam penelusuran, iklan, dan di seluruh web.
+
+Untuk saat ini, profil Anda hanya akan menampilkan nama (%s %s). Anda dapat menambahkan foto, biodata, dan detail lainnya nanti ketika mulai menggunakan Google+."</string>
+    <string name="dasher_warning">Administrator di %s memiliki dan mengelola semua data Anda di Google+ dan dapat menghapus atau mengubah profil Anda setiap saat tanpa izin Anda.</string>
+    <string name="profile_info_title">Profil Anda</string>
+    <string name="profile_text">Berikan beberapa informasi dasar untuk profil Anda. Anda dapat menambahkan foto dan detail lain nanti saat mulai menggunakan Google+.</string>
+    <string name="occupation">Pekerjaan</string>
+    <string name="current_city">Kota saat ini</string>
+    <string name="picassa_info_title">Picasa dan Google+</string>
+    <string name="picassa_info_text" formatted="false">Foto dan video Anda di Album Web Picasa akan tersedia di Google+ dan komentar Anda akan menggunakan %s %s, bukan %s. Ketika Anda berbagi foto di Google+, penerima dapat membagikan ulang ke orang lain. Setelan visibilitas album Anda tidak akan berubah, dan Anda dapat membatasinya setiap saat sehingga tidak dapat dibagi ulang secara bebas.</string>
+    <string name="name_title_plus">Nama Google+ Anda</string>
+    <string name="name_title_local">Ponsel ini milik...</string>
+    <string name="name_text_local">Ponsel menggunakan nama Anda untuk mempersonalisasi beberapa apl.</string>
+    <string name="name_progress_title">Tunggu sebentar...</string>
+    <string name="bad_name_title">Gunakan nama ini?</string>
+    <string name="invalid_name_title">Tidak dapat menggunakan nama ini</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Jika Anda menggunakan ini sebagai nama Google+, tim kami perlu meninjaunya. Jika itu melanggar Kebijakan Nama kami, profil Anda dapat ditangguhkan. Ini akan membatasi kemampuan Anda untuk menggunakan produk Google yang membutuhkan profil aktif.
+
+"<annotation id="learn_more">Pelajari lebih lanjut</annotation></string>
+    <string name="invalid_name_text">Anda tidak dapat menggunakan nama ini untuk Google+ karena berisi karakter yang tidak valid.</string>
+    <string name="invalid_nickname_text">Nama ini tidak dapat digunakan dengan Google+ karena berisi karakter yang tidak valid. Ingin menggunakan nama panggilan, nama sebelumnya, atau gelar? Anda dapat menambahkannya ke profil setelah bergabung.</string>
+    <string name="invalid_other_text">Nama ini tidak dapat digunakan dengan Google+.</string>
+    <string name="bad_name_agree_text">Saya mengerti dan ingin menggunakan nama ini.</string>
+    <string name="bad_name_decline_button_label">Perbarui nama</string>
+    <string name="bad_name_agree_button_label">Kirim nama untuk ditinjau</string>
+    <string name="bad_name_skip_button_label">Lewati Google+</string>
+    <string name="photo_title">Foto Anda</string>
+    <string name="photo_text">Foto ini akan digunakan di catatan kontak Anda. Anda dapat mengubahnya nanti dalam apl Orang.</string>
+    <string name="photo_text_es">Ambil foto yang akan dilihat teman di Google+. Anda dapat memilih foto baru nanti.</string>
+    <string name="photo_button_label">Ambil foto</string>
+    <string name="retake_photo_button_label">Ambil ulang foto</string>
+    <string name="photo_failure">Tidak dapat meluncurkan kamera.</string>
+    <string name="crop_failure">Tidak dapat memangkas foto.</string>
+    <string name="photo_description">Foto Anda</string>
+    <string name="communicating_message">Ponsel Anda menghubungi Google untuk menyimpan informasi ke akun. Proses ini dapat memerlukan waktu hingga 5 menit.</string>
+    <string name="creating_account_title">Menyimpan akun...</string>
+    <string name="checking_username_message">"Ponsel Anda menghubungi Google untuk mengetahui apakah nama pengguna yang diinginkan tersedia.
+
+Ini dapat memakan waktu beberapa menit."</string>
+    <string name="plus_failure_title">Bergabunglah dengan Google+ nanti</string>
+    <string name="plus_failure_new_account_text">Akun Google telah dibuat, namun permintaan Anda untuk bergabung dengan Google+ tidak berjalan lancar. Coba lagi nanti dari browser web apa pun di plus.google.com.</string>
+    <string name="plus_failure_text">Permintaan Anda untuk bergabung dengan Google+ tidak berjalan lancar. Coba lagi nanti dari browser web apa pun di plus.google.com.</string>
+    <string name="provisioned_login_title">Masukkan sandi</string>
+    <string name="provisioned_welcome">Hai, %s!</string>
+    <string name="provisioned_welcome_2">"Masukkan sandi Anda untuk:
+%s"</string>
+    <string name="provisioned_incorrect_login">Bukan %s?</string>
+    <string name="login_title">Ketikkan Email dan Sandi</string>
+    <string name="login_task_title">Masuk</string>
+    <string name="password">Sandi</string>
+    <string name="restore_wifi">Pulihkan dan sambungkan ke jaringan Wi-Fi yang dikenal.</string>
+    <string name="sign_in_agreement_multi_user">Dengan masuk, Anda setuju dengan <annotation id="tos">Persyaratan Layanan</annotation>, <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, dan <annotation id="play_tos">Persyaratan Layanan Google Play</annotation>". 
+
+Ingat: Pengguna lain dapat menerima izin aplikasi yang diperbarui atas nama Anda. Seperti pada komputer mana pun, sebaiknya berbagi Anda tablet ini hanya dengan orang yang Anda percaya."</string>
+    <string name="sign_in_agreement_with_chrome">Dengan masuk, Anda menyetujui <annotation id="tos">Persyaratan Layanan</annotation> dan <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, <annotation id="chrome_tos">Persyaratan Layanan</annotation> dan <annotation id="chrome_privacy">Pemberitahuan Privasi</annotation> Chrome, serta <annotation id="play_tos">Persyaratan Layanan</annotation> Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Dengan masuk, Anda setuju dengan <annotation id="tos">Persyaratan Layanan</annotation> dan <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, <annotation id="chrome_tos">Persyaratan Layanan</annotation> dan <annotation id="chrome_privacy">Pemberitahuan Privasi</annotation> Chrome, dan <annotation id="play_tos">Persyaratan Layanan</annotation>" Google Play. 
+
+Ingat: Pengguna lain dapat menerima izin aplikasi yang diperbarui atas nama Anda. Seperti pada komputer mana pun, sebaiknya berbagi Anda tablet ini hanya dengan orang yang Anda percaya."</string>
+    <string name="create_prompt">" Tidak punya akun Google? "<annotation id="create_account">Buat akun sekarang</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Masuk dengan Akun Google Anda:</string>
+    <string name="invalid_username">Teks yang Anda ketik bukan nama pengguna yang valid.</string>
+    <string name="captcha_instructions">Ketik teks yang Anda lihat di sini:</string>
+    <string name="create_google_account">Pilih nama pengguna</string>
+    <string name="create_google_account_text">Akun Google Anda dilengkapi dengan Gmail, email dari Google. Gmail bekerja di perangkat apa pun, memblokir spam, dan sebagainya.</string>
+    <string name="account_already_has_gmail">Akun sudah mempunyai Gmail.</string>
+    <string name="error_account_disabled">"Akun ini telah dinonaktifkan. 
+
+(Untuk detailnya, kunjungi http://google.com/accounts dengan browser web)"</string>
+    <string name="no_network">Anda tidak memiliki sambungan jaringan.</string>
+    <string name="no_network_help">Masalah ini mungkin hanya sementara atau perangkat Android Anda mungkin tidak dapat mengakses layanan data. Coba lagi saat tersambung ke jaringan seluler, atau sambungkan dengan jaringan Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Masalah ini mungkin bersifat sementara. Coba lagi atau sambungkan ke jaringan Wi-Fi lain.</string>
+    <string name="error_login_failed">"Nama pengguna dan sandi Anda tidak cocok. Coba lagi.
+
+Untuk memulihkan info akun, buka google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Akun ini belum diverifikasi. Periksa email dan ikuti tautan yang disertakan untuk memverifikasi akun ini. 
+
+(Untuk memulihkan informasi akun, buka http://www.google.com/accounts/recovery pada komputer Anda.)"</string>
+    <string name="exit_menu_item">Tutup proses masuk browser</string>
+    <string name="creating_profile">Membuat profil Anda…</string>
+    <string name="checking_account">Memeriksa ketersediaan...</string>
+    <string name="is_not_available">Nama pengguna <b>^1</b> tidak tersedia.</string>
+    <string name="suggestions_hint">Sentuh untuk melihat saran</string>
+    <string name="suggest_username_next_button_label">Ganti nama pengguna</string>
+    <string name="hint_size">" "<b>^1</b> berisi kurang dari 6 atau lebih dari 30 karakter.</string>
+    <string name="hint_numbers_only">" "<b>^</b> tidak berisi huruf sama sekali.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" hanya boleh berisi huruf,
+angka, dan titik."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> tidak menggunakan Gmail.</string>
+    <string name="sign_in_browser">Masuk browser</string>
+    <string name="alternatives_list_title">Nama pengguna yang disarankan</string>
+    <string name="password_title">Buat sandi</string>
+    <string name="choose_a_password">Sandi</string>
+    <string name="confirm_password">Ketik ulang sandi</string>
+    <string name="too_short">Terlalu pendek</string>
+    <string name="security_questions_title">Pertanyaan keamanan</string>
+    <string name="answer">" "<b>Jawaban</b></string>
+    <string name="password_mismatch">Sandi tidak cocok. Coba lagi.</string>
+    <string name="eight_chars_min">minimal 8 karakter</string>
+    <string name="verify_your_profile">Verifikasikan profil Anda</string>
+    <string name="error_not_logged_in">Pengguna belum masuk.</string>
+    <string name="error_username_unavailable">Nama pengguna tidak tersedia.</string>
+    <string name="error_bad_password">Sandi terlalu sederhana atau berisi karakter yang tidak valid. Coba lagi.</string>
+    <string name="error_bad_username">Nama pengguna tidak valid.</string>
+    <string name="existing_account_error_title">Akun sudah ada</string>
+    <string name="existing_account_error_text">Akun ^1 sudah ada di perangkat Android ini.</string>
+    <string name="submission_title">Maaf...</string>
+    <string name="submission_error_text">Terjadi kesalahan. Coba lagi.</string>
+    <string name="sync_intro_title">Sinkronisasi Akun</string>
+    <string name="account_tos_title">Tuntaskan akun</string>
+    <string name="account_tos_plus_title">Selesai bergabung dengan Google+</string>
+    <string name="i_accept">Saya setuju</string>
+    <string name="i_decline">Jangan membuat akun</string>
+    <string name="allow_personalized_content">Izinkan Google menggunakan informasi Anda untuk mempersonalisasi konten dan iklan di situs web selain Google.</string>
+    <string name="enable_web_history">Aktifkan riwayat web</string>
+    <string name="learn_more"><annotation id="learn_more">Pelajari lebih lanjut</annotation></string>
+    <string name="account_creation_tos">Dengan melanjutkan, Anda menyetujui <annotation id="tos">Persyaratan Layanan</annotation> dan <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, serta <annotation id="play_tos">Persyaratan Layanan Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Dengan melanjutkan, Anda menyetujui <annotation id="tos">Persyaratan Layanan</annotation> dan <annotation id="google_privacy">Kebijakan Privasi</annotation> Google, <annotation id="chrome_tos">Persyaratan Layanan</annotation> dan <annotation id="chrome_privacy">Pemberitahuan Privasi</annotation> Chrome, serta <annotation id="play_tos">Persyaratan Layanan</annotation> Google Play.</string>
+    <string name="gender_prompt">Jenis Kelamin</string>
+    <string name="gender_hint">Gender</string>
+    <string name="account_pre_intro_title">Punya Google?</string>
+    <string name="account_pre_intro_default_message">"Anda punya Akun Google?
+
+Jika Anda menggunakan Gmail atau Google Apps, jawab Ya."</string>
+    <string name="account_pre_intro_yes">Ya</string>
+    <string name="account_pre_intro_no">Tidak</string>
+    <string name="account_intro_title">Akun Google</string>
+    <string name="account_intro_required_title">Diberdayakan oleh Google</string>
+    <string name="account_intro_recommended_title">Jadikan Google</string>
+    <string name="account_intro_default_message">Jangan pernah kehilangan barang-barang Anda lagi. Akun Google menjaga segalanya tetap aman.</string>
+    <string name="account_intro_simple_message">Apakah Anda ingin menambahkan akun yang sudah ada atau membuat yang baru?</string>
+    <string name="account_intro_learn_more">Pelajari lebih lanjut</string>
+    <string name="learn_more_title">Pelajari lebih lanjut</string>
+    <string name="learn_more_account_intro">"Akun Google memungkinkan Anda:
+
+"<li><ul>Melihat dan mengatur semua informasi Anda—termasuk riwayat penelusuran—dari mana saja.</ul></li>"
+
+"<li><ul>Mencadangkan data Anda, seperti email, kontak, musik, dan gambar, secara otomatis.</ul></li>"
+
+"<li><ul>Menggunakan layanan Google dengan mudah dari mana saja—termasuk Kontak, Kalender, Maps, dan lainnya.</ul></li></string>
+    <string name="learn_more_account_intro_title">Tentang Akun Google</string>
+    <string name="learn_more_bad_name">Google+ mengharuskan Anda menggunakan nama umum. Profil harus mewakili satu orang—bukan sebuah bisnis, organisasi, atau keluarga—dan harus menyertakan nama depan serta nama belakang dalam satu bahasa tanpa gelar profesional atau tanda baca yang tidak perlu. Setelah mendaftar, Anda dapat menempatkan nama panggilan atau nama lain yang terkait dengan Anda pada bidang Nama Lain di profil.</string>
+    <string name="learn_more_bad_name_title">Tentang Kebijakan Nama</string>
+    <string name="wait_for_device_country_title">Penyiapan akun</string>
+    <string name="wait_for_device_country_msg">Mengumpulkan informasi tentang ponsel Anda. Hal ini dapat memakan waktu hingga 30 detik.</string>
+    <string name="recovery_title">Pemulihan sandi Google</string>
+    <string name="recovery_wait_title">Menghubungi Google...</string>
+    <string name="cannot_talk_to_server_msg">Perangkat tidak dapat menjangkau Google.</string>
+    <string name="recovery_skip_label">Abaikan</string>
+    <string name="recovery_retry_label">Coba Lagi</string>
+    <string name="recovery_message_set">"Jika Anda lupa sandi, Anda akan memerlukan cara untuk memulihkannya.
+
+Google memberikan opsi untuk memulihkan sandi Anda melalui SMS atau alamat email alternatif.
+
+Langkah ini sangat disarankan. "<annotation id="help_url">Pelajari lebih lanjut</annotation></string>
+    <string name="recovery_message_verify">"Sandi mudah dilupakan.
+
+Konfirmasi nomor telepon atau alamat email cadangan sekarang. Cara ini dapat membantu memulihkan akses ke konten Anda di Google dan Google Play. "<annotation id="help_url">Pelajari lebih lanjut</annotation></string>
+    <string name="recovery_yes_button_label">Siapkan opsi pemulihan</string>
+    <string name="recovery_yes_button_label_verify">Konfirmasi opsi pemulihan</string>
+    <string name="recovery_later_button_label">Lain kali</string>
+    <string name="recovery_input_screen_message">Informasi pemulihan ini diterapkan untuk %s.</string>
+    <string name="secondary_email_hint">Email cadangan</string>
+    <string name="secondary_email_invalid">Alamat email tidak valid</string>
+    <string name="secondary_email_same_as_primary">Tak boleh sama dengan email utama</string>
+    <string name="phone_number_hint">Nomor telepon</string>
+    <string name="phone_number_invalid_character">Karakter di nomor telepon tidak valid</string>
+    <string name="phone_number_invalid">Nomor telepon tidak valid</string>
+    <string name="country_invalid">Negara ini tidak diizinkan</string>
+    <string name="recovery_server_error">Kesalahan berbicara ke server. Coba lagi setelah beberapa saat.</string>
+    <string name="account_recovery_info">Jika Anda kehilangan sandi, Anda dapat menjawab pertanyaan keamanan dan menerima email yang berisi tautan penyetelan ulang di alamat yang berbeda.</string>
+    <string name="secondary_email_label">Alamat email pemulihan</string>
+    <string name="invalid_email">"Alamat email yang Anda ketikkan tidak valid.
+ Contoh: firda@example.com"</string>
+    <string name="invalid_email_primary">Alamat pemulihan tidak boleh sama dengan yang sedang Anda buat.</string>
+    <string name="backup_consent_message">"Gunakan akun Google Anda untuk mencadangkan apl, setelan (misalnya bookmark dan sandi Wi-Fi), dan data lainnya. Jika sebelumnya Anda telah mencadangkan akun, Anda dapat memulihkannya ke ponsel ini sekarang.
+
+Anda dapat mengubah setelan cadangan Anda kapan pun di Setelan."</string>
+    <string name="backup_consent_message_no_restore">"Gunakan akun Google Anda untuk mencadangkan apl, setelan (misalnya bookmark dan sandi Wi-Fi), serta data lainnya.
+
+Anda dapat mengubah setelan cadangan Anda kapan pun di Setelan."</string>
+    <string name="restoring_title">Memulihkan...</string>
+    <string name="restoring_message">Ponsel Anda menghubungi Google untuk memulihkan akun. Proses ini dapat memerlukan waktu beberapa saat.</string>
+    <string name="gls_notification_login_error">Sentuh untuk masuk ke akun Anda.</string>
+    <string name="gls_ui_add_account_title">Penyiapan akun</string>
+    <string name="gls_ui_activity_title">Masuk</string>
+    <string name="gls_ui_activity_title_browser_signin">Masuk</string>
+    <string name="gls_ui_activity_title_checking_in">Menyiapkan...</string>
+    <string name="gls_ui_activity_authenticating">Mengautentikasi…</string>
+    <string name="gls_dmagent_activity_activate_message">" Domain Anda mengharuskan pengelolaan perangkat seluler. Aktifkan aplikasi \"Kebijakan Perangkat Google Apps\" untuk menerapkan kebijakan keamanan yang diperlukan oleh akun  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktifkan</string>
+    <string name="gls_dmagent_activity_download_message">" Domain Anda mengharuskan pengelolaan perangkat seluler. Pasang aplikasi \"Kebijakan Perangkat Google Apps\" untuk menerapkan kebijakan keamanan yang diperlukan oleh akun  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Unduh</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Anda mengetik sandi yang salah atau akun Anda telah berubah. Ketik ulang sandi.</string>
+    <string name="permlab_googleAuthPassword">akses sandi untuk akun Google</string>
+    <string name="permdesc_googleAuthPassword">Memungkinkan apl mengakses langsung sandi untuk akun Google yang telah Anda siapkan.</string>
+    <string name="permlab_googleMailSwitch">pilih Gmail atau pencitraan merek Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Mengizinkan apl mengubah nama yang ditampilkan antara pengenalan merek \"Gmail\" dan \"Google Mail\".</string>
+    <string name="sync_item_title">Sinkronisasikan %s</string>
+    <string name="grant_credentials_permission_message_footer">Mereka meminta izin untuk:</string>
+    <string name="grant_credentials_permission_message_app">Apl ini menginginkan akses ke akun Google Anda mulai dari sekarang:</string>
+    <string name="grant_permissions_header_text">Permintaan izin</string>
+    <string name="allow">Izinkan akses</string>
+    <string name="deny">Tidak, terima kasih</string>
+    <string name="permission_request_notification_with_subtitle">"Izin dimintakan
+untuk akun %s"</string>
+    <string name="notification_title">Kesalahan saat masuk untuk %1$s</string>
+    <string name="account_setup_title">Akun Google</string>
+    <string name="login_activity_title">Masuk</string>
+    <string name="relogin_activity_title">Ketik ulang sandi</string>
+    <string name="show_error_activity_title">Tidak dapat masuk</string>
+    <string name="login_activity_task_title">Masuk...</string>
+    <string name="login_activity_task_msg">Proses ini membutuhkan waktu beberapa menit.</string>
+    <string name="prepare_account_setup_task_title">Menyiapkan penyiapan akun…</string>
+    <string name="prepare_account_setup_task_msg">Proses ini membutuhkan waktu beberapa menit.</string>
+    <string name="sync_intro_activity_title">Sinkronkan akun</string>
+    <string name="username">Email</string>
+    <string name="error_invalid_second_factor">Gunakan sandi khusus apl, bukan sandi akun reguler Anda.</string>
+    <string name="error_needs_browser">Untuk mengakses akun, Anda harus masuk di web. Sentuh Berikutnya untuk mulai masuk lewat Browser.</string>
+    <string name="google_play_opt_in">Selalu kabarkan berita dan penawaran terbaru dari Google Play.</string>
+    <string name="google_settings_header_title">Privasi</string>
+    <string name="maps_settings_title">Maps &amp; Latitude</string>
+    <string name="location_settings_title">Lokasi</string>
+    <string name="search_settings_title">Penelusuran</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Iklan</string>
+    <string name="location_network_based">Layanan lokasi Google</string>
+    <string name="location_neighborhood_level">Izinkan data lokasi anonim dikirim ke Google. Izinkan pula aplikasi yang sudah diperbolehkan untuk memakai data dari jaringan seluler &amp; Wi-Fi guna menentukan lokasi Anda.</string>
+    <string name="use_location_title">Lokasi &amp; penelusuran Google</string>
+    <string name="use_location_summary">Izinkan Google menggunakan lokasi Anda untuk meningkatkan hasil penelusuran dan layanan lainnya</string>
+    <string name="backup_consent_yes_agree">Menggunakan Akun Google untuk mencadangkan aplikasi, setelan (seperti bookmark dan sandi Wi-Fi), dan data lainnya.</string>
+    <string name="restore_consent_yes_agree">Menghadirkan aplikasi, setelan, dan data lain ke ponsel ini yang sebelumnya telah Anda cadangkan ke Akun Google.</string>
+    <string name="audit_logging_summary">Otomatis mengirim informasi diagnostik dan aktivitas perangkat ke Google untuk membantu meningkatkan produk kami dan melindungi perangkat Anda.</string>
+    <string name="no_back_msg">Tidak dapat kembali ke langkah sebelumnya.</string>
+    <string name="setup_wizard_title">Wizard Penyiapan</string>
+    <string name="setup_wizard_services_activity_title">Layanan Google</string>
+    <string name="setup_wizard_services_description">Layanan ini membuat Google bekerja untuk Anda dan Anda dapat mengaktifkan atau menonaktifkan kapan saja. Data akan digunakan menurut <annotation id="google_privacy">Kebijakan Privasi</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Pencadangan &amp; pemulihan</string>
+    <string name="setup_wizard_services_location_heading">Lokasi</string>
+    <string name="setup_wizard_services_communication_heading">Komunikasi</string>
+    <string name="setup_wizard_services_backup"><b>Cadangkan aplikasi, data aplikasi, setelan, kamus pribadi, dan sandi Wi‑Fi ponsel</b> menggunakan Akun Google agar Anda nanti dapat memulihkannya dengan mudah. <annotation id="backup_details">Pelajari lebih lanjut</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Cadangkan aplikasi, data aplikasi, setelan, kamus pribadi, dan sandi Wi‑Fi</b> menggunakan Akun Google agar Anda nanti dapat memulihkannya dengan mudah.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data meliputi aplikasi, setelan aplikasi, setelan sistem, dan sandi Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Jika Anda mengaktifkan pencadangan otomatis, data perangkat akan disimpan ke Akun Google secara berkala. Pencadangan dapat meliputi informasi di folder data aplikasi Anda, seperti preferensi, setelan, pesan, foto, dan file lainnya.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Gunakan layanan lokasi Google</b> untuk membantu aplikasi menentukan lokasi. Ini artinya mengirimkan data lokasi anonim ke Google bahkan saat tidak ada aplikasi yang berjalan. <annotation id="location_details">Pelajari lebih lanjut</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Layanan lokasi Google menggunakan sumber seperti jaringan Wi-Fi dan seluler untuk membantu memperkirakan lokasi perangkat Anda dengan lebih cepat dan akurat. Saat Anda mengaktifkan layanan lokasi Google, perangkat memasuki mode yang menggunakan jaringan Wi-Fi dan seluler untuk memberikan informasi lokasi. Anda dapat menonaktifkannya di setelan lokasi dengan memilih mode yang hanya menggunakan GPS, terkadang disebut mode Khusus perangkat.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Bantu sempurnakan layanan lokasi</b> dengan mengizinkan aplikasi dan layanan memindai jaringan Wi-Fi bahkan saat Wi-Fi nonaktif.</string>
+    <string name="setup_wizard_services_location_footnote">Layanan lokasi Google menggunakan Wi-Fi dan sinyal lainnya untuk menentukan lokasi dengan lebih akurat dan cepat, sering kali dengan penggunaan daya yang lebih rendah daripada GPS. Beberapa data mungkin disimpan di perangkat Anda. Data dapat dikumpulkan bahkan saat aplikasi tidak berjalan.</string>
+    <string name="setup_wizard_services_play"><b>Selalu kabarkan kepada saya</b> berita dan penawaran terbaru dari Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Bantu sempurnakan pengalaman Android Anda</b> dengan mengirimkan data penggunaan dan diagnostik ke Google secara otomatis. Informasi ini tidak akan digunakan untuk mengidentifikasi Anda dan membantu tim untuk meningkatkan hal seperti masa pakai baterai, kinerja aplikasi, dan fitur Google yang baru. <annotation id="usage_reporting_details">Pelajari lebih lanjut</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Ini adalah informasi umum tentang perangkat dan cara Anda menggunakannya, seperti tingkat baterai, seberapa sering Anda menggunakan aplikasi, kualitas dan durasi sambungan jaringan Anda (seperti seluler, Wi-Fi, dan Bluetooth), serta laporan kerusakan saat hal-hal tersebut tidak berkerja dengan semestinya. Informasi itu akan digunakan untuk meningkatkan layanan dan produk Google untuk semua orang, dan tidak akan dikaitkan dengan Akun Google Anda. Beberapa informasi yang terkumpul akan membantu mitra, misalnya pengembang Android, membuat aplikasi dan produknya menjadi lebih baik juga.
+
+Anda dapat mengaktifkan atau menonaktifkannya kapan saja di aplikasi Setelan Google. Hal ini tidak akan memengaruhi kemampuan perangkat untuk mengirim informasi yang dibutuhkan guna menerima layanan penting seperti keamanan dan pembaruan sistem."</string>
+    <string name="setup_wizard_services_agreement">Ponsel ini juga dapat menerima dan memasang pembaruan dan aplikasi dari Google, operator, dan produsen ponsel Anda. Beberapa aplikasi juga dapat diunduh dan dipasang jika Anda melanjutkannya, dan Anda dapat membuangnya kapan saja.</string>
+</resources>

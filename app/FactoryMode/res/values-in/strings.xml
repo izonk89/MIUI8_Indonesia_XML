@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test_no">Tidak</string>
+    <string name="test_yes">Ya</string>
+    <string name="RTC_test">RTC</string>
+    <string name="Led_test">LED</string>
+    <string name="G_sensor_test">G_sensor</string>
+    <string name="Wifi_test">Wifi</string>
+    <string name="Fm_test">Fm</string>
+    <string name="LCD_test">LCD</string>
+    <string name="Loopback_test">Loopback</string>
+    <string name="headset_not_plug">Belum Siap</string>
+    <string name="headset_button_press">OK</string>
+    <string name="kepad_test_up">Naik</string>
+    <string name="kepad_test_down">Turun</string>
+    <string name="kepad_test_camera">Cam</string>
+    <string name="kepad_test_menu">Menu</string>
+    <string name="kepad_test_home">Beranda</string>
+    <string name="kepad_test_return">Kembali</string>
+    <string name="kepad_test_search">telusuri</string>
+    <string name="kepad_test_power">Daya</string>
+    <string name="FMR_freq_text">Test Freq(MHz)</string>
+    <string name="dlg_no_earphone">Earphone digunakan sebagai antena Radio FM. Anda ingin melanjutkan tanpa earphone?</string>
+    <string name="btn_yes">Ya</string>
+    <string name="btn_no">Tidak</string>
+    <string name="touchpanel_test_X">X</string>
+    <string name="DigitalClock">JamDigital</string>
+    <string name="no_test_report">tanpa pengujian</string>
+    <string name="cal_status_pass">LULUS</string>
+    <string name="cal_status_fail">GAGAL</string>
+    <string name="unknown">Tidak dikenal</string>
+    <string name="status_success">lulus</string>
+    <string name="status_fail">gagal</string>
+    <string name="status_no_test">tidak diuji</string>
+    <string name="sim_is_not_ready">SIM Belum Siap</string>
+    <string name="sim1_is_not_ready">SIM1 Belum Siap</string>
+    <string name="sim2_is_not_ready">SIM2 Belum Siap</string>
+    <string name="headset_loop_back_test_result">Loop Back(LP) :</string>
+    <string name="back_camera_info">Kamera Utama</string>
+    <string name="front_camera_info">Sub Kamera</string>
+    <string name="dev_tp">TP</string>
+    <string name="dev_flash">Flash</string>
+    <string name="dev_bt">Bluetooth</string>
+    <string name="dev_wifi">Wifi</string>
+    <string name="dev_G_sensor">G-sensor</string>
+    <string name="gps_button">" GPS "</string>
+</resources>

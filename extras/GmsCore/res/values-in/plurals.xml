@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d karakter melebihi batas</item>
+        <item quantity="one">%1$d karakter melebihi batas</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d karakter tersisa</item>
+        <item quantity="one">%1$d karakter tersisa</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Akun Google</item>
+        <item quantity="one">%d Akun Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Perangkat ini digunakan utnuk menyiapkan ^1 dengan Akun Google dan datanya</item>
+        <item quantity="one">Perangkat ini digunakan untuk menyiapkan ^1 dengan Akun Google dan datanya</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d menit</item>
+        <item quantity="one">1 menit</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Undangan tersebut tidak dikirim karena ada kesalahan</item>
+        <item quantity="one">Undangan ini tidak dikirim karena ada kesalahan</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Undangan tersebut tidak dapat dikirimkan sekarang. Anda dapat mengirimkannya lagi dari Google Play > Akun saya.</item>
+        <item quantity="one">Undangan ini tidak dapat dikirim sekarang. Anda dapat mengirimkannya lagi dari Google Play > Akun saya.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">sisa %d undangan</item>
+        <item quantity="one">sisa %d undangan</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d pesan baru</item>
+        <item quantity="one">1 pesan baru</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d orang di depan Anda</item>
+        <item quantity="one">1 orang di depan Anda</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d lingkaran</item>
+        <item quantity="one">1 lingkaran</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">1 mnt</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">1 mnt</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d orang</item>
+        <item quantity="one">1 orang</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Oleh %1$s dan %2$d aplikasi lain</item>
+        <item quantity="one">Oleh %1$s dan %2$d aplikasi lain</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">%d mnt</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s orang</item>
+        <item quantity="one">%1$s orang</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d pengikut</item>
+        <item quantity="one">Satu pengikut</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d kali dilihat</item>
+        <item quantity="one">Sekali dilihat</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Menyalin data dan Akun Google Anda…</item>
+        <item quantity="one">Menyalin data dan Akun Google Anda…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Perangkat ini digunakan untuk menyiapkan ^1 dengan data dan Akun Google Anda</item>
+        <item quantity="one">Perangkat ini digunakan untuk menyiapkan ^1 dengan data dan Akun Google Anda</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Booting ulang untuk memasang dalam %d detik…</item>
+        <item quantity="one">Booting ulang untuk memasang dalam 1 detik...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Menampilkan daftar %1$d opsi alamat</item>
+        <item quantity="one">Menampilkan daftar satu opsi alamat</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Menampilkan daftar %1$d item.</item>
+        <item quantity="one">Menampilkan daftar satu item.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Menampilkan daftar %1$d opsi metode pembayaran</item>
+        <item quantity="one">Menampilkan daftar satu opsi metode pembayaran</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Menampilkan daftar %1$d opsi program pelanggan setia</item>
+        <item quantity="one">Menampilkan daftar satu opsi program pelanggan setia</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">menit</item>
+        <item quantity="one">menit</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap %2$d hari&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap hari&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap %2$d hari&amp;lt;/price> untuk &amp;lt;duration>%3$d hari berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap hari&amp;lt;/price> untuk &amp;lt;duration>%3$d hari berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap %2$d hari&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap hari&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap %2$d hari&amp;lt;/price> untuk &amp;lt;duration>%3$d hari berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap hari&amp;lt;/price> untuk &amp;lt;duration>%3$d hari berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap %2$d bulan&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap bulan&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap %2$d bulan&amp;lt;/price> untuk &amp;lt;duration>%3$d bulan berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap bulan&amp;lt;/price> untuk &amp;lt;duration>%3$d bulan berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap %2$d bulan&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap bulan&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap %2$d bulan&amp;lt;/price> untuk &amp;lt;duration>%3$d bulan berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap bulan&amp;lt;/price> untuk &amp;lt;duration>%3$d bulan berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap %2$d tahun&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap tahun&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap %2$d tahun&amp;lt;/price> untuk &amp;lt;duration>%3$d tahun berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s setiap tahun&amp;lt;/price> untuk &amp;lt;duration>%3$d tahun berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap %2$d tahun&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap tahun&amp;lt;/price> mulai &amp;lt;start_time>%3$s&amp;lt;/start_time> hingga langganan Anda dibatalkan.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap %2$d tahun&amp;lt;/price> untuk &amp;lt;duration>%3$d tahun berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Anda akan ditagih secara otomatis sebesar &amp;lt;price>%1$s ditambah pajak yang berlaku, setiap tahun&amp;lt;/price> untuk &amp;lt;duration>%3$d tahun berikutnya&amp;lt;/duration> mulai &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+</resources>

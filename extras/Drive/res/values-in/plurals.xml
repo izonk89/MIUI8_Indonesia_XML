@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accounts_title">
+        <item quantity="other">%1$d akun</item>
+        <item quantity="one">%1$d akun</item>
+    </plurals>
+    <plurals name="action_bar_easter_egg_toast_clicks">
+        <item quantity="other">%1$d klik lagi</item>
+        <item quantity="one">%1$d klik lagi</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s bukan alamat email yang valid.</item>
+        <item quantity="one">%s bukan alamat email yang valid.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Menambahkan file ini berarti membagikannya dengan semua orang yang dapat mengakses folder bersama %1$s</item>
+        <item quantity="one">Menambahkan file ini berarti membagikannya dengan semua orang yang dapat mengakses folder bersama %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Menambahkan file dan folder ini berarti membagikannya dengan semua orang yang dapat mengakses folder bersama %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Menambahkan folder ini berarti membagikannya dengan semua orang yang dapat mengakses folder bersama %1$s</item>
+        <item quantity="one">Menambahkan folder ini berarti membagikannya dengan semua orang yang dapat mengakses folder bersama %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Berbagi file ini?</item>
+        <item quantity="one">Berbagi file ini?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Berbagi file dan folder ini?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Berbagi folder ini?</item>
+        <item quantity="one">Berbagi folder ini?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d folder diperbarui. Warna disetel menjadi %2$s.</item>
+        <item quantity="one">%1$d folder diperbarui. Warna disetel menjadi %2$s.</item>
+    </plurals>
+    <plurals name="backup_apps_success_msg">
+        <item quantity="other">%1$d aplikasi telah diperbarui</item>
+        <item quantity="one">%1$d aplikasi telah diperbarui</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Item tidak dapat diunduh</item>
+        <item quantity="one">Item tidak dapat diunduh</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">%1$d dari %2$d item akan diunduh. Lihat detail di pemberitahuan.</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d item akan diunduh. Lihat detail di pemberitahuan.</item>
+        <item quantity="one">%1$d item akan diunduh. Lihat detail di pemberitahuan.</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s item tidak dapat diunduh</item>
+        <item quantity="one">%1$s item tidak dapat diunduh</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d item lagi</item>
+        <item quantity="one">%1$d item lagi</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d dari %2$d unduhan gagal</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Memindahkan file ini akan membagikannya dengan siapa saja yang dapat mengakses folder bersama %1$s</item>
+        <item quantity="one">Memindahkan file ini akan membagikannya dengan siapa saja yang dapat mengakses folder bersama %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Memindahkan file dan folder ini akan membagikannya dengan siapa saja yang dapat mengakses folder bersama %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Memindahkan folder ini akan membagikannya dengan siapa saja yang dapat mengakses folder bersama %1$s</item>
+        <item quantity="one">Memindahkan folder ini akan membagikannya dengan siapa saja yang dapat mengakses folder bersama %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_files_and_folders_in_one_folder">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d file dan folder ini lagi di folder bersama %3$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_files_and_folders_in_three_or_more_folders">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d file dan folder ini lagi di folder bersama %2$d</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_files_and_folders_in_two_folders">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d file ini lagi di folder bersama %3$s dan %4$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_files_in_one_folder">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d file ini lagi di folder bersama %3$s</item>
+        <item quantity="one">Pengguna lain tidak akan melihat file ini lagi di folder bersama %3$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_files_in_three_or_more_folders">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d file ini lagi di %2$d folder bersama</item>
+        <item quantity="one">Pengguna lain tidak akan melihat file ini lagi di %2$d folder bersama</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_files_in_two_folders">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d file ini lagi di folder bersama %3$s dan %4$s</item>
+        <item quantity="one">Pengguna lain tidak akan melihat file ini lagi di folder bersama %3$s dan %4$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_folders_in_one_folder">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d folder ini lagi di folder bersama %3$s</item>
+        <item quantity="one">Pengguna lain tidak akan melihat file ini lagi di folder bersama %3$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_folders_in_three_or_more_folders">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d folder ini lagi di %2$d folder bersama</item>
+        <item quantity="one">Pengguna lain tidak akan melihat folder ini lagi di %2$d folder bersama</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_unshare_folders_in_two_folders">
+        <item quantity="other">Pengguna lain tidak akan melihat %1$d folder ini lagi di folder bersama %3$s dan %4$s</item>
+        <item quantity="one">Pengguna lain tidak akan melihat folder ini lagi di folder bersama %3$s dan %4$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Berbagi file ini?</item>
+        <item quantity="one">Berbagi file ini?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Berbagi file dan folder ini?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Berbagi folder ini?</item>
+        <item quantity="one">Berbagi folder ini?</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s Saran</item>
+        <item quantity="one">%1$s Saran</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s Daftar tugas</item>
+        <item quantity="one">%1$s Daftar tugas</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d dari %2$s kini tersedia saat offline.</item>
+        <item quantity="one">%1$d dari %2$s kini tersedia saat offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d file semuanya kini tersedia saat offline.</item>
+        <item quantity="one">%1$d file kini tersedia saat offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Membuat %1$d file tersedia saat offline.</item>
+        <item quantity="one">Membuat %1$d file tersedia saat offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d file</item>
+        <item quantity="one">%1$d file</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d unduhan dijeda.</item>
+        <item quantity="one">%1$d unduhan dijeda.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%d item akan dipindahkan ke Sampah. Ini juga akan menghapus beberapa item tersebut dari Google Foto.</item>
+        <item quantity="one">Satu item akan dipindahkan ke Sampah. Ini juga akan menghapusnya dari Google Foto.</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Mengomentari %d file</item>
+        <item quantity="one">Mengomentari file</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Mengomentari %d file</item>
+        <item quantity="one">Mengomentari file</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Mengomentari file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_extra_many_users">
+        <item quantity="other">Membuat %d item di:</item>
+        <item quantity="one">Membuat item di:</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_extra_one_user">
+        <item quantity="other">Membuat %d item di:</item>
+        <item quantity="one">Membuat item di:</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Membuat %d item</item>
+        <item quantity="one">Membuat item</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Membuat %d item</item>
+        <item quantity="one">Membuat item</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Membuat file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Membuat folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Mengedit %d item</item>
+        <item quantity="one">Mengedit item</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Mengedit %d item</item>
+        <item quantity="one">Mengedit item</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Mengedit file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Menghapus %d item secara permanen</item>
+        <item quantity="one">Menghapus 1 item secara permanen</item>
+    </plurals>
+    <plurals name="recent_activity_type_link_many_users">
+        <item quantity="other">Mengubah akses tautan untuk %d item</item>
+        <item quantity="one">Mengubah akses tautan untuk 1 item</item>
+    </plurals>
+    <plurals name="recent_activity_type_link_one_user">
+        <item quantity="other">Mengubah akses tautan untuk %d item</item>
+        <item quantity="one">Mengubah akses tautan untuk 1 item</item>
+    </plurals>
+    <plurals name="recent_activity_type_link_this_file">
+        <item quantity="other">Mengubah akses tautan ke file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_link_this_folder">
+        <item quantity="other">Mengubah akses tautan ke folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Memindahkan %d item ke:</item>
+        <item quantity="one">Memindahkan item ke:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Memindahkan %d item ke:</item>
+        <item quantity="one">Memindahkan item ke:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Memindahkan %d item</item>
+        <item quantity="one">Memindahkan item</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Memindahkan %d item</item>
+        <item quantity="one">Memindahkan item</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Memindahkan file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Memindahkan file ini ke:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Memindahkan folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Memindahkan folder ini ke:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Mengganti nama %d item</item>
+        <item quantity="one">Mengganti nama item</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Mengganti nama %d item</item>
+        <item quantity="one">Mengganti nama item</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Mengganti nama file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Mengganti nama folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_extra_many_users">
+        <item quantity="other">Membagikan %d item dengan:</item>
+        <item quantity="one">Membagikan item dengan:</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_extra_one_user">
+        <item quantity="other">Membagikan %d item dengan:</item>
+        <item quantity="one">Membagikan item dengan:</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Membagikan %d item</item>
+        <item quantity="one">Membagikan item</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Membagikan %d item</item>
+        <item quantity="one">Membagikan item</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Membagikan file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file_extra">
+        <item quantity="other">Membagikan file ini dengan:</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Membagikan folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder_extra">
+        <item quantity="other">Membagikan folder ini dengan:</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Memindahkan %d item ke sampah</item>
+        <item quantity="one">Memindahkan item ke sampah</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Memindahkan %d item ke sampah</item>
+        <item quantity="one">Memindahkan item ke sampah</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Menghapus file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Menghapus folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_unshared_many_users">
+        <item quantity="other">Membatasi akses ke %d item</item>
+        <item quantity="one">Membatasi akses ke 1 item</item>
+    </plurals>
+    <plurals name="recent_activity_type_unshared_one_user">
+        <item quantity="other">Membatasi akses ke %d item</item>
+        <item quantity="one">Membatasi akses ke 1 item</item>
+    </plurals>
+    <plurals name="recent_activity_type_unshared_this_file">
+        <item quantity="other">Membatasi akses ke file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_unshared_this_folder">
+        <item quantity="other">Membatasi akses ke folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Mengunggah %d item</item>
+        <item quantity="one">Mengunggah item</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Mengunggah %d item</item>
+        <item quantity="one">Mengunggah item</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Mengunggah file ini</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Mengunggah folder ini</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s dan %2$d orang lainnya</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Anda yakin ingin menghapus %d item ini secara permanen? Anda tidak dapat mengurungkan tindakan ini.</item>
+        <item quantity="one">Anda yakin ingin menghapus satu item secara permanen? Anda tidak dapat mengurungkan tindakan ini.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d Item</item>
+        <item quantity="one">%1$d Item</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d Item dipilih</item>
+        <item quantity="one">%1$d Item dipilih</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d Item tidak dipilih</item>
+        <item quantity="one">%1$d Item tidak dipilih</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%d item berbintang</item>
+        <item quantity="one">1 item berbintang</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">%d item dihapus dari perangkat</item>
+        <item quantity="one">1 item dihapus dari perangkat</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%d item dihapus bintangnya</item>
+        <item quantity="one">1 item dihapus bintangnya</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%d item dipulihkan</item>
+        <item quantity="one">1 item dipulihkan</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%d item dihapus</item>
+        <item quantity="one">1 item dihapus</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d item ditambahkan ke %2$s</item>
+        <item quantity="one">1 item ditambahkan ke %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d item dipulihkan dan ditambahkan ke %2$s</item>
+        <item quantity="one">1 item dipulihkan dan ditambahkan ke %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d item dipindah ke %2$s</item>
+        <item quantity="one">1 item dipindah ke %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d item dipulihkan dan dipindahkan ke %2$s</item>
+        <item quantity="one">1 item dipulihkan dan dipindahkan ke %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d item dipulihkan ke %2$s</item>
+        <item quantity="one">1 item dipulihkan ke %2$s</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Kirim file dengan</item>
+        <item quantity="one">Kirim file dengan</item>
+    </plurals>
+    <plurals name="sharing_message_add_users_more">
+        <item quantity="other">%1$s telah dibagikan dengan %2$s dan %3$d pengguna lain</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Lanjutkan Semua Sekarang</item>
+        <item quantity="one">Lanjutkan Sekarang</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_ticker">
+        <item quantity="other">Unggahan dijeda, menunggu Wi-Fi...</item>
+        <item quantity="one">Unggahan dijeda, menunggu Wi-Fi...</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Membatalkan jadwal untuk mengunggah %1$d file.</item>
+        <item quantity="one">Membatalkan jadwal untuk mengunggah %1$d file.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Tidak dapat menjadwalkan %1$d file untuk diunggah.</item>
+        <item quantity="one">Tidak dapat menjadwalkan %1$d file untuk diunggah.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d file diunggah.</item>
+        <item quantity="one">%1$d file diunggah.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Tidak dapat mengunggah %1$d dari %2$d file.</item>
+        <item quantity="one">Tidak dapat menggunggah %1$d dari %2$d file.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Mengunggah %1$d file.</item>
+        <item quantity="one">Mengunggah %1$d file.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d unggahan dijeda.</item>
+        <item quantity="one">%1$d unggahan dijeda.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Mempersiapkan %1$d file untuk diunggah.</item>
+        <item quantity="one">Mempersiapkan %1$d file untuk diunggah.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d file Anda sedang diunggah ke: %2$s</item>
+        <item quantity="one">%1$d file Anda sedang diunggah ke: %2$s</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">Filter</item>
+        <item quantity="one">Filter</item>
+    </plurals>
+</resources>

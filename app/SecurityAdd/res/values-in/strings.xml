@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plugin layanan keamanan</string>
+    <string name="ok_button">Oke</string>
+    <string name="cancel_button">Batal</string>
+    <string name="privacy_declare_dialog_title">Persyaratan Layanan</string>
+    <string name="privacy_prompt_traffic_purchase_message">Nomor telepon dan rincian operator Anda akan dienkripsi dan diunggah ke server Mi untuk memperoleh info lebih banyak tentang pilihan pembelian data.</string>
+    <string name="miuishare_title_more">Lainnya</string>
+    <string name="miuishare_title_share">Berbagi</string>
+    <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Tidak dapat terhubung ke jaringan</string>
+    <string name="no_network_btn">Coba lagi</string>
+    <string name="main_toolbar_purchase">Isi saldo</string>
+    <string name="usage_sorted_loading_text">Tunggu sebentar…</string>
+    <string name="month_report_activity_label">Laporan bulanan</string>
+    <string name="month_report_disconnect_tip">Tidak dapat terhubung ke jaringan</string>
+    <string name="month_report_click_reconnect_network">Coba lagi</string>
+    <string name="month_report_warning_dialog_title">Laporan keamanan bulanan</string>
+    <string name="month_report_warning_dialog_description">Untuk melihat laporan bulanan, hidupkan fitur ini di Setelan apl Keamanan.</string>
+    <string name="month_report_warning_dialog_positive">Hidupkan</string>
+    <string name="month_report_history_activity_label">Riwayat laporan</string>
+    <string name="month_report_result_share">Berbagi</string>
+    <string name="month_report_share_img_fail">Tidak dapat berbagi</string>
+    <string name="month_report_share_loading">Tunggu sebentar…</string>
+    <string name="month_report_network_dialog_title">Tidak bisa peroleh info laporan</string>
+    <string name="month_report_network_dialog_description">Izinkan apl ini terhubung ke internet untuk memperoleh info laporan?</string>
+    <string name="month_report_network_dialog_positive">Izinkan</string>
+    <string name="month_report_follow_service_title">Pembaruan keamanan</string>
+    <string name="month_report_follow_service_summary">Ikuti akun resmi apl Keamanan MIUI untuk memperoleh berita dan info terbaru tentang keamanan.</string>
+    <string name="month_report_follow_service_positive">Ikuti</string>
+    <string name="month_report_follow_service_negative">Tidak</string>
+    <string name="app_not_installed_toast">Apl tidak terinstal di perangkat.</string>
+    <string name="empty">" "</string>
+    <string name="share">Berbagi</string>
+    <string name="open_browser">Buka di browser</string>
+    <string name="title_share_link">Berbagi URL</string>
+    <string name="pm_lable_name">Tentang akses root</string>
+    <string name="pc_activity_title">Mengoptimalkan baterai</string>
+</resources>

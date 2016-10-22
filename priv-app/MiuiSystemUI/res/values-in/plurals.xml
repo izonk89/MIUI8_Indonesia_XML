@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d apl terbaru</item>
+        <item quantity="one">1 apl terbaru</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Sembunyikan %d notifikasi apl?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Cerah</item>
+    </plurals>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Tak ada cukup ruang di penyimpanan eksternal</string>
+    <string name="dialog_insufficient_space_on_cache">Tak ada cukup ruang di penyimpanan internal unduh</string>
+    <string name="auto_restart_under_wifi">Wi-Fi akan otomatis unduh berkas ini</string>
+    <string name="task_already_exist">Tugas telah ada</string>
+    <string name="privacy_tip_title">Gunakan Akselerator Xunlei?</string>
+    <string name="privacy_tip_content">Menggunakan Xunlei Akselerator untuk mempercepat unduh? URL host unduh akan unggah ke Xunlei server. Rincian Akun Mi akan diunggah untuk periksa apakah Anda memiliki langganan aktif apapun untuk layanan ini.</string>
+    <string name="privacy_tip_cancel">Batal</string>
+    <string name="privacy_tip_ok">Oke</string>
+    <string name="privacy_notif_title">Akselerator Unduh Xunlei aktif</string>
+    <string name="privacy_notif_content">Sentuh untuk lihat rincian.</string>
+    <string name="notif_text_engine_on">Mempercepat…</string>
+    <string name="notif_text_engine_off">Akselerator Xunlei nonaktif.</string>
+    <string name="notif_title_single_downloading">Mengunduh %1$s</string>
+    <string name="notif_title_multiple_downloading">Mengunduh %1$d berkas</string>
+    <string name="notif_title_file_size">%1$d total</string>
+    <string name="paused_waiting_for_network">Menunggu jaringan</string>
+    <string name="warning_tip_title">Peringatan penggunaan data</string>
+    <string name="warning_tip_content">Anda tak lagi terhubung ke Wi-Fi. Menggunakan koneksi data seluler untuk menyelesaikan pengunduhan ini akan meningkatkan penggunaan data. Jika melampaui batas paket data, Anda dapat dikenakan biaya tambahan oleh operator.</string>
+    <string name="warning_tip_cancel">Unduh</string>
+    <string name="warning_tip_ok">Jeda</string>
+    <string name="dialog_not_show_again">Jangan tampil lagi</string>
+    <string name="notification_download_complete">Pengunduhan selesai</string>
+    <string name="notification_download_failed">Tidak dapat unduh</string>
+    <string name="notification_download_success_more">%1$d terunduh</string>
+    <string name="notification_download_failed_more">Tidak dapat unduh %1$d item</string>
+    <string name="mobile_recommended_title">Penggunaan data seluler</string>
+    <string name="recommended_file_size_download_in_mobile">Gunakan %s data seluler untuk unduh berkas ini?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Gunakan koneksi data seluler Anda untuk unduh berkas ini?</string>
+    <string name="button_wait_for_wifi">Tunggu</string>
+    <string name="button_download_now">Unduh sekarang</string>
+    <string name="insufficient_space">Tak ada cukup ruang di penyimpanan internal perangkat</string>
+    <string name="enter_garbage_clean">Bersihkan penyimpanan internal.</string>
+    <string name="download_apk_desktop_pending">Tertunda</string>
+    <string name="download_apk_desktop_pause">Dijeda</string>
+    <string name="download_apk_desktop_running">Mengunduh</string>
+    <string name="download_apk_desktop_installing">Menginstal</string>
+    <string name="xl_speedup_experience_notify_title">Keanggotaan Xunlei</string>
+    <string name="xl_speedup_experience_notify_context">Pengunduhan dipercepat karena Anda telah menjadi anggota Xunlei</string>
+    <string name="xl_speedup_notify_button_experience">Coba gratis</string>
+    <string name="xl_speedup_notify_button_member">Gabung</string>
+    <string name="notify_disabled_net_by_app">Koneksi internet dibatasi oleh apl Keamanan</string>
+    <string name="notify_only_wifi_download">Menunggu Wi-Fi</string>
+    <string name="notify_install_guide_title">Berhasil instal %s</string>
+    <string name="notify_install_guide_msg">Berhasil instal</string>
+    <string name="notify_install_guide_forward_text">Buka</string>
+    <string name="app_label">Pengelola Unduhan</string>
+    <string name="permlab_downloadManager">Akses pengelola unduhan.</string>
+    <string name="permdesc_downloadManager">Mengizinkan apl mengakses pengelola unduhan dan menggunakannya untuk mengunduh file. Apl berbahaya dapat menggunakan ini untuk mengganggu unduhan dan mengakses informasi pribadi.</string>
+    <string name="permlab_downloadManagerAdvanced">Fungsi pengelola unduhan lanjutan</string>
+    <string name="permdesc_downloadManagerAdvanced">Mengizinkan apl mengakses fungsi lanjutan pengelola unduhan. Apl berbahaya dapat menggunakan ini untuk mengganggu unduhan dan mengakses informasi pribadi.</string>
+    <string name="permlab_downloadCompletedIntent">Kirim pemberitahuan unduhan.</string>
+    <string name="permdesc_downloadCompletedIntent">Mengizinkan apl mengirim pemberitahuan tentang unduhan yang telah diselesaikan. Apl berbahaya dapat menggunakan ini untuk mengacaukan apl lain yang mengunduh file.</string>
+    <string name="permlab_seeAllExternal">Lihat semua unduhan pada penyimpanan USB</string>
+    <string name="permdesc_seeAllExternal">Mengizinkan apl melihat semua unduhan ke kartu SD, terlepas apl apa yang mengunduhnya.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Ruang penyimpanan dalam cache unduhan</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Mengizinkan apl mengunduh file ke cache unduhan yang tidak dapat dihapus secara otomatis saat pengelola unduhan memerlukan lebih banyak ruang.</string>
+    <string name="permlab_downloadWithoutNotification">unduh file tanpa pemberitahuan</string>
+    <string name="permdesc_downloadWithoutNotification">Mengizinkan apl mengunduh file melalui pengelola unduhan tanpa menampilkan pemberitahuan apa pun kepada pengguna.</string>
+    <string name="permlab_accessAllDownloads">Akses semua unduhan sistem</string>
+    <string name="permdesc_accessAllDownloads">Mengizinkan apl melihat dan memodifikasi semua unduhan yang dimulai oleh apl apa pun pada sistem.</string>
+    <string name="download_unknown_title">&lt;Tanpa judul></string>
+    <string name="notification_need_wifi_for_size">Ukuran unduhan memerlukan Wi-Fi.</string>
+    <string name="notification_paused_in_background">Dijeda di latar belakang.</string>
+    <string name="wifi_required_title">Unduhan terlalu besar untuk jaringan operator</string>
+    <string name="wifi_required_body" formatted="false">"Anda harus menggunakan Wi-Fi untuk menyelesaikan unduhan %s  ini. 
+
+Sentuh %s  untuk memulai unduhan ini saat Anda tersambung lagi ke jaringan Wi-Fi."</string>
+    <string name="wifi_recommended_title">Antrekan untuk diunduh nanti?</string>
+    <string name="wifi_recommended_body" formatted="false">"Memulai unduhan %s  ini sekarang dapat mempersingkat masa pakai baterai Anda dan/atau menyebabkan penggunaan berlebih dari sambungan data seluler, yang dapat berakibat dikenai tagihan oleh operator ponsel, tergantung paket data Anda.
+
+ Sentuh %s untuk memulai unduhan ini saat Anda tersambung lagi ke jaringan Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Antrean</string>
+    <string name="button_cancel_download">Batal</string>
+    <string name="button_start_now">Mulai sekarang</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s lagi</string>
+    <string name="download_no_application_title">Tidak dapat membuka file</string>
+    <string name="root_downloads">Unduhan</string>
+    <string name="download_queued">Diantrekan</string>
+    <string name="download_running">Sedang berlangsung</string>
+    <string name="download_error">Gagal</string>
+    <string name="download_running_percent">Dalam proses, %d%%</string>
+</resources>

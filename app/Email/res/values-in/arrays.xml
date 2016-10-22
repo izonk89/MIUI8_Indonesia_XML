@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Malam ini</item>
+        <item>Besok</item>
+        <item>Akhir pekan</item>
+        <item>Minggu depan</item>
+        <item>Bulan depan</item>
+        <item>Pilih tanggal</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Balas</item>
+        <item>Balas semua</item>
+        <item>Teruskan</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Sangat kecil</item>
+        <item>Kecil</item>
+        <item>Normal</item>
+        <item>Besar</item>
+        <item>Sangat besar</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Baru-baru ini dilihat</item>
+        <item>Format</item>
+        <item>Nama</item>
+        <item>Pengirim</item>
+        <item>Tgl diterima</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Sering digunakan</item>
+        <item>Semua folder</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Pesan lebih baru</item>
+        <item>Pesan lebih lama</item>
+        <item>Kotak masuk</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Alamat:</item>
+        <item>Telp:</item>
+        <item>Nama:</item>
+        <item>Email:</item>
+        <item>HP:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Kode pos:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Terima kasih,</item>
+        <item>Hormat saya</item>
+        <item>Dikirim dari</item>
+        <item>Email asli</item>
+        <item>Dikirim dari</item>
+        <item>Dikirim dari</item>
+        <item>Dari</item>
+        <item>Email ini</item>
+        <item>Pernyataan Penyangkalan</item>
+        <item>Pernyataan Penyangkalan Email</item>
+    </string-array>
+</resources>

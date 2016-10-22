@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Selamat datang</string>
+    <string name="app_name">Ketentuan</string>
+    <string name="input_method_setting">Pilih keyboard</string>
+    <string name="input_method_category">Pilih keyboard bawaan yang akan Anda gunakan untuk menulis email, catatan, dan lainnya. Anda juga dapat menginstal keyboard pihak ketiga lainnya nanti.</string>
+    <string name="provision_inputmethod_policy_description">"
+Lihat Kebijakan Privasi keyboard terpilih."</string>
+    <string name="provision_inputmethod_policy_description1">Kebijakan Privasi</string>
+    <string name="multisim_settings_title">2 kartu SIM terdeteksi</string>
+    <string name="multisim_settings_category">Setelan kartu SIM</string>
+    <string name="sim_card_detection">Masukkan kartu SIM</string>
+    <string name="sim_card_detecting_title">Periksa kartu SIM</string>
+    <string name="sim_card_detection_info">Untuk memasukkan kartu SIM, baca instruksi yang tersedia bersama dengan perangkat.</string>
+    <string name="sim_card_detecting">Memeriksa kartu SIM…</string>
+    <string name="other_settings">Setelan tambahan</string>
+    <string name="other_settings_location">Lokasi</string>
+    <string name="other_settings_location_summary">Izinkan apl akses lokasi Anda</string>
+    <string name="other_settings_user_experience">Program Pengalaman Pengguna</string>
+    <string name="other_settings_user_experience_summary">Bantu tingkatkan produk dan layanan dengan mengirim data penggunaan anonim.</string>
+    <string name="other_settings_upload_debug_log_title">Otomatis kirim data diagnostik</string>
+    <string name="other_settings_upload_debug_log_summary">Informasi yang kami kumpulkan akan digunakan untuk mencari dan menganalisa masalah di sistem dan dapat mengandung informasi pribadi. Tak ada data yang akan digunakan untuk identifikasi Anda secara personal.</string>
+    <string name="other_settings_auto_update">Otomatis perbarui</string>
+    <string name="other_settings_auto_update_summary">MIUI akan pilih waktu yang paling sesuai untuk unduh dan instal pembaruan.</string>
+    <string name="other_settings_mifg_online_content">Komedi putar Wallpaper</string>
+    <string name="other_settings_mifg_online_content_summary">Dapatkan wallpaper baru dikirim ke Layar kunci setiap hari.</string>
+    <string name="back">Kembali</string>
+    <string name="next">Berikutnya</string>
+    <string name="skip_underline">Lewati tahap ini</string>
+    <string name="sim_dectection_next">Lanjutkan</string>
+    <string name="shut_down">Daya mati</string>
+    <string name="sim_redetection">Periksa lagi</string>
+    <string name="congratulation_title">Pengaturan selesai</string>
+    <string name="congratulation_label">Selamat menggunakan!​</string>
+    <string name="pref_title_voice_slot">Kartu SIM panggilan prioritas</string>
+    <string name="pref_title_data_slot">Kartu SIM data prioritas</string>
+    <string name="summary_not_set">Belum diatur</string>
+    <string name="ime_privacy_policy">Kebijakan Privasi keyboard pilihan</string>
+    <string name="ime_privacy_policy_no_network">Tak ada koneksi jaringan. Lihat Kebijakan Privasi untuk keyboard ini di %s.</string>
+    <string name="terms_of_use">Syarat dan Ketentuan</string>
+    <string name="terms_of_use_label">"Privasi Anda sangat penting bagi kami. Mohon baca Perjanjian Pengguna dan Kebijakan Privasi agar memahami informasi yang kami kumpulkan, bagaimana kami menggunakannya, dan pilihan apa yang tersedia untuk Anda.
+
+Anda juga harus menyetujui Perjanjian Pengguna dan Kebijakan Privasi sebelum mengunakan MIUI. Anda perlu terhubung ke internet untuk mengaktivasi Layanan Mi, Cari perangkat dan Mi Home."</string>
+    <string name="user_agreement">Perjanjian Pengguna</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="agree">Setuju</string>
+    <string name="disagree">Batal</string>
+    <string name="setting_locale">Mengatur lokasi…</string>
+    <string name="agree_terms">Saya telah membaca dan menyetujui Perjanjian Pengguna dan Kebijakan Privasi.</string>
+    <string name="miui_terms_no_network">Anda tidak memiliki koneksi internet. Lihat Persyaratan Layanan di %s.</string>
+    <string name="miui_privacy_policy_no_network">Anda tidak memiliki koneksi internet. Lihat Kebijakan Privasi di %s.</string>
+    <string name="locale_picker_title">Pilih lokasi Anda</string>
+    <string name="install_preinstall_app">Memuat aplikasi…</string>
+    <string name="title_fingerprint">Tambah sidik jari Anda</string>
+    <string name="desc_fingerprint">Gunakan sidik jari untuk membuka kunci perangkat, verifikasi transaksi Mi Pay, atau masuk ke apl dan layanan.</string>
+    <string name="next_fingerprint">Berikutnya</string>
+    <string name="desc_international_fingerprint">Gunakan sidik jari untuk buka kunci perangkat, atau masuk ke apl dan layanan.</string>
+    <string name="content_description_start">Mulai</string>
+    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_complete">Selesai</string>
+    <string name="content_description_language_picker">Pilih bahasa</string>
+</resources>

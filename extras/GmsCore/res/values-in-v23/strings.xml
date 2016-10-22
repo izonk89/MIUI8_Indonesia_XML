@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Ini adalah informasi umum tentang perangkat ini dan cara penggunaannya, seperti tingkat baterai, seberapa sering aplikasi digunakan, kualitas dan durasi sambungan jaringan (seperti seluler, Wi‑Fi, dan Bluetooth), serta laporan kerusakan jika ada yang tidak beres. Informasi ini akan digunakan untuk menyempurnakan produk dan layanan Google bagi semua orang, dan tidak akan dikaitkan dengan Akun Google anak Anda. Beberapa informasi yang diagregasikan juga akan membantu mitra, seperti pengembang Android, membuat aplikasi dan produknya lebih baik.
+
+Anda dapat mengaktifkan atau menonaktifkannya kapan saja di Setelan > Google. Tindakan ini tidak memengaruhi kemampuan perangkat untuk mengirim informasi yang diperlukan dalam menerima layanan esensial seperti pemutakhiran sistem dan keamanan."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Otomatis cadangkan data perangkat</b> (seperti sandi Wi-Fi dan riwayat panggilan) dan data aplikasi (seperti setelan dan file yang disimpan oleh aplikasi) ke Google Drive. <annotation id="backup_details">Pelajari lebih lanjut</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Jika Anda mengaktifkan cadangan otomatis, data perangkat dan aplikasi disimpan secara periodik ke folder pribadi di Google Drive. Data aplikasi dapat berupa data apa saja yang disimpan oleh aplikasi (berdasarkan setelan pengembang), termasuk data yang berpotensi sensitif seperti kontak, pesan, dan foto.
+
+Data cadangan tidak dihitung dari kuota penyimpanan Drive. File besar, atau file yang dipilih oleh pengembang untuk tidak disertakan dalam layanan ini tidak akan dicadangkan."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Tingkatkan akurasi lokasi</b> dengan mengizinkan aplikasi dan layanan memindai jaringan Wi-Fi dan perangkat Bluetooth, meski Wi-Fi dan Bluetooth tidak aktif.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Ini adalah informasi umum tentang perangkat Anda dan cara penggunaannya, seperti tingkat baterai, seberapa sering Anda menggunakan aplikasi, kualitas dan durasi sambungan jaringan (seperti seluler, Wi‑Fi, dan Bluetooth), serta laporan kerusakan jika ada yang tidak beres. Informasi ini akan digunakan untuk menyempurnakan produk dan layanan Google bagi semua orang, dan tidak akan dikaitkan dengan Akun Google Anda. Beberapa informasi yang diagregasikan juga akan membantu mitra, seperti pengembang Android, membuat aplikasi dan produknya lebih baik.
+
+Anda dapat mengaktifkan atau menonaktifkannya kapan saja di Setelan > Google. Tindakan ini tidak memengaruhi kemampuan perangkat untuk mengirim informasi yang diperlukan dalam menerima layanan esensial seperti pemutakhiran sistem dan keamanan."</string>
+</resources>

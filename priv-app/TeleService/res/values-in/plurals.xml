@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Tak ada koneksi data selama %s menit</item>
+        <item quantity="one">Tidak ada sambungan data selama %s menit</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telepon akan berada dlm mode Panggil balik darurat selama %s menit. Selama dlm mode ini, apl yg memakai koneksi data tdk dpt dipakai. Ingin keluar skrg?</item>
+        <item quantity="one">Ponsel akan berada dalam mode Panggil Balik Darurat selama %s menit. Selama dalam mode ini, aplikasi yang menggunakan sambungan data tidak dapat dipakai. Apakah Anda ingin keluar sekarang?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Aksi yg dipilih tdk tersedia saat berada dlm mode Panggil balik darurat. Telepon akan berada dlm mode ini selama %s menit. Ingin keluar skrg?</item>
+        <item quantity="one">Tindakan yang dipilih tidak tersedia saat berada dalam mode Panggil Balik Darurat. Ponsel akan berada dalam mode ini selama %s menit. Apakah Anda ingin keluar sekarang?</item>
+    </plurals>
+</resources>
